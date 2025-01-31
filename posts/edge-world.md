@@ -14,11 +14,11 @@ One fine point of Saudi humor is the placement of unmarked speed bumps on the fr
 
 The key to off-roading a rented sedan is to make the moment of paying the deposit as painful as possible and then to wipe the existence of that money from your mind. It was never yours. Once you are fully resolved to financial ruin, gunning whatever Corolla or Yaris you have been given over boulders and down dry river beds becomes purely rational: the extraction of maximum value from your investment.
 
-![](/assets/images/desert1.jpg)
+![](/shoreleave/assets/images/desert1.jpg)
 
 An hour later, we ran the car up onto an embankment from which it would not descend and left it sitting there at a sickly angle, the passenger side wheels spinning inconsolably. Syed spotted a low outcropping on the horizon, so we climbed to the top and found the ruined foundations of an old settlement. Below us in the valley, a small cluster of huts were the only thing visible for miles. A Bedouin family began the call to prayer and their herd of black camels responded, crowding around the father's Tacoma.
 
-![](/assets/images/desert2.jpg)
+![](/shoreleave/assets/images/desert2.jpg)
 
 Syed prayed on the cliff's edge while I walked out and looked at a line of violent amber spreading from the horizon. I called back over my shoulder "I think I can see the Edge of the World out there" and much later, as the last of the color failed and the small village grew too grainy to see, Syed rose from his prayers and replied "This is the edge of the world for us, my friend." And he was right—so we climbed back down the hill and managed to roll the car onto level ground in time for a complete darkness to descend. 
 
@@ -38,17 +38,17 @@ All told, it was five hours out and back: an exceedingly clean failure, and Syed
 
 At the Edge of the World, Chinese tourists squatted and smoked, facing away from the view. We climbed a series of rolling peaks over a clean thousand foot drop, the wall rippling across the valley like gold ribbon. There was something disorienting about how the sand piled against the cliff’s face, recalling coastal erosion and the cries of seagulls. Buttresses with the symmetrical grooves of a lathe stood frozen in time, caught partway through their slow collapse.
 
-![](/assets/images/desert3.jpg)
-![](/assets/images/desert4.jpg)
-![](/assets/images/desert5.jpg)
-![](/assets/images/desert6.jpg)
+![](/shoreleave/assets/images/desert3.jpg)
+![](/shoreleave/assets/images/desert4.jpg)
+![](/shoreleave/assets/images/desert5.jpg)
+![](/shoreleave/assets/images/desert6.jpg)
 
 Night fell. Someone offered a treatise on the physics of satellite design, and we all lay for an hour with our feet hanging off the edge. Behind us the guided tour groups ate on carpets thrown over the sand, their Suburbans circled up like wagons. Eventually we followed a truck back out through the desert and drove across Riyadh in search of softer sand.
 
-![](/assets/images/desert7.jpg)
-![](/assets/images/desert8.jpg)
-![](/assets/images/desert9.jpg)
-![](/assets/images/desert10.jpg)
+![](/shoreleave/assets/images/desert7.jpg)
+![](/shoreleave/assets/images/desert8.jpg)
+![](/shoreleave/assets/images/desert9.jpg)
+![](/shoreleave/assets/images/desert10.jpg)
 
 We found it 40 miles southeast of the city, where a hole had been blown in a sandstone mesa and eight lanes dropped into a deep valley. At the bottom we pulled off and spent a few fitful hours in the car, soon giving up to hike out into the dunes. The sand was like pastry flour sifted into incredibly precise ridges, elsewhere corrugated with the patterns of the wind.
 
@@ -58,24 +58,24 @@ Around 4am, the season's first breeze kicked up, and I got to enjoy an hour of 8
 *The same super car roared down and then up the grade multiple times as if trying to make a point to the desert, prompting Syed to murmur "always more boy racers" in his sleep.
 *Meanwhile, a lifted Tacoma across the highway fared worse: driving up and sliding back down the same dune, trying desperately to reach his friend's identical truck on the peak. Each time he failed, he would reverse farther out into the freeway to gather momentum before rocketing back up, spraying great waves of sand behind him, and stalling. When he finally made it to the top, he stepped out into the other truck's headlamps and embraced the driver.
 
-![](/assets/images/desert11.jpg)
-![](/assets/images/desert12.jpg)
+![](/shoreleave/assets/images/desert11.jpg)
+![](/shoreleave/assets/images/desert12.jpg)
 
 At dawn we found a smoggy swap meet near the road and rented quads until the heat became unbearable.
 
-![](/assets/images/desert13.jpg)
-![](/assets/images/desert14.jpg)
-![](/assets/images/desert15.jpg)
-![](/assets/images/desert16.jpg)
+![](/shoreleave/assets/images/desert13.jpg)
+![](/shoreleave/assets/images/desert14.jpg)
+![](/shoreleave/assets/images/desert15.jpg)
+![](/shoreleave/assets/images/desert16.jpg)
 
 The final week passed in a haze of tours. I was shown Digital City, like the sun-dried husk of some vast quartered fruit, its core scooped away to reveal a spare courtyard of palms and polished cement. Eating my first good salad in weeks in the canteen, I was surrounded by scalded Brits balding in exile—dozens of them, and more joining all the time, their rubber soles squeaking as they jogged between patches of shade. Wearing badges with titles like "Managing Director, Terraforming", they were restored to wry smiles and self effacement by the air conditioning, making them seem less expats than anachronisms, men sent through time to take up symbolic advisory roles.
 
-![](/assets/images/desert17.jpg)
-![](/assets/images/desert18.jpg)
+![](/shoreleave/assets/images/desert17.jpg)
+![](/shoreleave/assets/images/desert18.jpg)
 
 We were driven to the NEOM Experience, a compound of white hangars built to advertise the linear city.
 
-![](/assets/images/desert19.jpg)
+![](/shoreleave/assets/images/desert19.jpg)
 
 A young man, one of those Saudis who look and sound like no race you've seen before, had drawn the short straw and was pushed forward to be our guide. Petrified, he moved us and the camera crews swiftly between an endless series of rooms, each filled with architectural models the size of playgrounds. He kept saying "I don't want to rush you" and then urging us along, as if it were crucial that we didn't look too closely at anything.
 
@@ -89,26 +89,26 @@ Someone said, "You're rushing us."
 
 Syed seemed to settle the matter when he put his hand on the guide’s shoulder and pointed to some little figures scaling a floating island. "Brother, are you saying this is real?"
 
-![](/assets/images/desert20.jpg)
-![](/assets/images/desert21.jpg)
-![](/assets/images/desert22.jpg)
+![](/shoreleave/assets/images/desert20.jpg)
+![](/shoreleave/assets/images/desert21.jpg)
+![](/shoreleave/assets/images/desert22.jpg)
 
 And of course we saw Riyadh’s glory, The Boulevard: a 220 acre phantom of Times Square. It was completely unclassifiable, a city in its own right—a place where, after a TSA pat-down, you were guided along paths sprayed with mist and sold fast food while e-sports played on enormous screens. There was an attempt at a rave, but even when the DJ tried to show the crowd how to move their arms, not a single person danced. There was a "Hangul Pavilion" where girls with frost-blue contact lenses under their niqabs bowed and let out a long chorus of “anyeonghaseyo”. Something about the dry heat and the dryer air conditioning had forced my perceptive core deep back into my head. It felt as if I were encountering all of this through the shadows and echoes it sent down the inflamed corridors of my nostrils. 
 
-![](/assets/images/desert23.jpg)
-![](/assets/images/desert24.jpg)
-![](/assets/images/desert25.jpg)
-![](/assets/images/desert26.jpg)
+![](/shoreleave/assets/images/desert23.jpg)
+![](/shoreleave/assets/images/desert24.jpg)
+![](/shoreleave/assets/images/desert25.jpg)
+![](/shoreleave/assets/images/desert26.jpg)
 
 A gaunt cartoonish Russian stood outside the e-sports arena, smoking in the 95 degree night, the collar of his white polo shirt turned up against the neon. I looked up and saw his face blown up to 40 feet on the wall of the stadium: his arms crossed, a sparkle effect added to his eyes. Fergus asked him how the competition was going. "I dropped in the first round." He paused for a long time and watched the people walking along the Boulevard, and as we left him to his misery I heard him say softly, "How easily it all falls away, and then you wake up in this shithole."
 
 On the way back, our driver gave a detailed speech about youtube. ("The Faze Clan is totally corrupt, soon banned inshallah, no goal, only money. I watch them, yes.") When this dried up, he started waving his phone around the cab—his photo reel another unending slab of neon videos, all meals out at Western fast food chains, the audio for each cutting in and out on the car's speakers to compete with his music. He missed the turn onto campus three times and eventually threw on his hazards to back up along the freeway.
 
-![](/assets/images/desert27.jpg)
+![](/shoreleave/assets/images/desert27.jpg)
 
 That night they rolled out some rugs on the roof and we kneeled around enormous plates of lamb soaked in honey. With our departure looming, a tone of real frivolity  emerged in our little outpost of air conditioning over the desert—an auctioneer-style addressing of the topics forbidden at home. As the cab pulled away from the Boulevard, Fergus had commented that it all felt like the metaverse, and I knew exactly what he meant: that Riyadh felt less like a place than a series of references, a city haunted by other cities and yet entirely immune to their judgement. And with that surrealism came an indulgent break from certain premises: from the stifling ubiquity of an anxious puritanism in the West, a fear of anything that might impart the stain or odor of corruption. I’ve met many abroad who are addicted to this form of freedom; I stayed adrift for many years partly to cling to it myself. But for its brief compensations, it’s almost always a trap, a poor substitute for simply enjoying the desert and then passing-by.
 
-![](/assets/images/desert28.jpg)
+![](/shoreleave/assets/images/desert28.jpg)
 
 As we walked into the closing ceremony the following morning, we were greeted with the applause of our 200 young men, their parents, and rows of minor dignitaries—our own ranks decimated by a poisonous plate of honeyed lamb. After an agonizing speech by the stuttering provost, we were shown a film of ourselves: our classes edited into action sequences, our routines narrativized to match government KPIs. The music swelled. An Arabic voiceover announced our valor. Every man associated with the university was brought onstage to accept an award. We signed the kids' thawbs, shook hands with their fathers, averted our eyes from their mothers, and drove to the airport.
 
