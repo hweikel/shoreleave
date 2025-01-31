@@ -1,0 +1,22 @@
+{
+  "name": "shoreleave",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "deploy": "gh-pages -d _site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}

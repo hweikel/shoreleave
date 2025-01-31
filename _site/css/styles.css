@@ -1,0 +1,309 @@
+@font-face {
+  font-family: 'SabonLTPro';
+  src: url('/assets/fonts/SabonLTPro-Roman.eot');
+  src: url('/assets/fonts/SabonLTPro-Roman.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/SabonLTPro-Roman.woff') format('woff'), url('/assets/fonts/SabonLTPro-Roman.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; 
+}
+@font-face {
+  font-family: 'SabonLTPro';
+  src: url('/assets/fonts/SabonLTPro_Italic.eot');
+  src: url('/assets/fonts/SabonLTPro_Italic.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/SabonLTPro_Italic.woff') format('woff'), url('/assets/fonts/SabonLTPro_Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal; 
+}
+
+/* DEFAULTS */
+
+/* Utilities ----------------------------------- */ 
+.hide { 
+  display: none; 
+}
+
+.center { 
+  text-align: center; 
+}
+
+/* Defaults ------------------------------------ */ 
+html, body {
+  background: black;
+  color: #fff8cd; 
+  font-family: 'SabonLTPro', 'Times New Roman', Georgia, 'Noto Serif KR', 'Noto Serif JP', 'Noto Serif TC', 'Songti TC', 'HiraMinProN', 'Hiragino Mincho ProN', 'Yu Gothic', 'Hiragino Sans GB', 'Heiti TC', serif; 
+  font-size: 22px;
+  line-height: 1.25; 
+  padding: 0;
+  margin: 0;
+  font-variant-numeric: oldstyle-nums;
+  -moz-font-feature-settings: 'onum';
+  -ms-font-feature-settings: 'onum';
+  -webkit-font-feature-settings: 'onum';
+  font-feature-settings: 'onum';
+}
+
+img {
+  max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, button {
+  margin: 0; 
+  padding: 0; 
+  font-size: inherit;
+  font-weight: normal;
+  font-family: inherit; 
+}
+
+button { 
+  border: 1px solid rgba(0, 0, 0, 0.1); 
+  background: white; 
+  padding: 10px 14px; 
+  transition: color 0.25s; 
+  cursor: pointer;
+}
+
+button:hover, 
+button:active {
+  color: red; 
+}
+
+button:active { 
+  border-color: red; 
+}
+
+blockquote {
+  margin: 0; 
+}
+
+ul, ul li, ol, ol li, p {
+  margin: 0;
+  padding: 0;
+}
+
+p + p, 
+ul + p, 
+p + ul, 
+ol + p, 
+p + ol, 
+p + blockquote, 
+blockquote + p, 
+blockquote + blockquote, 
+li + li {
+  margin-top: calc(0.5 * 1.25rem);
+}
+
+ol {
+  list-style-type: none;
+  counter-reset: list;
+  margin-left: 1.25rem;
+}
+  ol > li:before {
+      position: absolute;
+      counter-increment: list;
+      content: counter(list);
+      margin-left: -1.25rem;
+  }
+  
+ul {
+  list-style-type: none; 
+  margin-left: 2rem;
+} 
+  ul > li:before {
+      position: absolute;
+      content: '·';
+      margin-left: -1rem;
+  }
+
+pre, code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+code {
+  font-family: 'source-code-pro', consolas, menlo, monospace;
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: normal;
+}
+
+a:link,
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red; 
+}
+
+.image a {
+  border-bottom: none;
+}
+
+.image a:hover, 
+.image a:active {
+  border-bottom: none;
+  background-color: transparent;
+}
+
+span.proper-name { 
+  background-image: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 1) 50%);
+  background-position: 0px 96%;
+  background-size: 2px 2px;
+  background-repeat: repeat-x;
+}
+
+hr { 
+  border: none; 
+  text-align: center; 
+}
+hr:after {
+  content: "*";
+}
+
+abbr, 
+.small-caps {
+  font-feature-settings: "c2sc" 1; 
+  letter-spacing: 1px;
+}
+
+/* END: Defaults */ 
+  body.grid-container {
+    display: grid;
+    min-height: 100vh; /* Full viewport height */
+  } 
+
+  .header {
+    grid-column: 1 / -1; /* Span all columns */
+    padding: 1rem;
+    text-align: center;
+    background-color: black;
+  }
+  
+  .header-image {
+    max-width: 400px;
+    height: auto;
+  }
+
+  .header-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  header h1 {
+    margin: 0;
+  }
+
+  h1 a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  header .motto {
+    margin: 0;
+    font-style: italic;
+  }
+
+  .posts {
+    display: grid;
+    width: 90%;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2px;
+    color: black;
+  }
+  
+  .post {
+    background-color: #fff8cd;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    padding-top: 2rem;
+    flex-direction: column;
+  }
+
+  .preview-image {
+    max-width: 80%;
+    margin: 0 auto;
+    outline: 2px solid red;
+    outline-offset: 6px;
+  }
+
+  .post h2 {
+    margin-top: 1rem;
+    text-align: left;
+  }
+
+  .post p {
+    text-align: left;
+    font-style: italic;
+    width: 100%;
+  }
+  
+  .footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: .5rem;
+  }
+
+  article {
+    width: 100%;
+    background-color: black;
+  }
+
+  article h1 {
+    text-align: center;
+  }
+
+  article p {
+    max-width: calc(21 * 1.25rem);
+    margin: 0 auto;
+  }
+
+  article p + p, 
+  ul + p, 
+  p + ul, 
+  ol + p, 
+  p + ol, 
+  p + blockquote, 
+  blockquote + p, 
+  blockquote + blockquote, 
+  li + li {
+    margin-top: calc(0.5 * 1.25rem);
+  }
+
+  blockquote p { 
+    padding-left: 1.25rem;
+    max-width: calc(21 * 1.25rem - 1.25rem); 
+}
+
+
+  @media (max-width: 768px) {
+    .header-container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .header-image {
+        max-width: 80%;
+        margin: 0 0 1em 0; /* Add spacing between image and text */
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+        justify-content: center;
+    }
+  }  
+
+

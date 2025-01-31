@@ -1,0 +1,67 @@
+---
+title: "Like shining from shook foil"
+description: "An endorsement of new forms of travel"
+date: 2024-06-30
+previewImage: "/assets/images/shining7.jpg"
+layout: layout.njk
+---
+
+Ned Donovan recently published a [piece](https://substack.com/home/post/p-145657065) lamenting the current state of travel. A video of the crowded summit of Everest has touched a nerve online, desecrating a place that many saw as a sort of symbolic birthright for the intrepid. After advancing familiar arguments - the ubiquity of pale globalized comforts, cheap flights reducing travel to “a superficial sampling of experiences” - Donovan concludes on a deflated note: “Nothing is fabulous anymore, all we can be is tourists now.” 
+
+I respect Donovan’s other pieces, which aim to capture that same expeditionary spirit - I even empathize with these concerns - but he is dead wrong here.
+
+These are thoughts we’ve all had. The sleek coffee shop encountered abroad can prompt days of spiraling despair. A moral panic ensues when the remotest villagers also have phones - failing to alleviate our guilt for having one ourselves. But that old saw of the early 2010s internet - “Born too late to explore the Earth, born too early to explore the stars” - has always been an excuse, and worse: a retreat. Going on my fourth year of travel, I have always found that whenever this crisis of faith fell over me, it has been occasioned by my own sourness and sense of entitlement.
+
+So don’t be a tourist or a disappointed explorer; be something else. Have a reason for each place you go - or better still, have no reason at all. But be sure to avoid that unhallowed middle ground: the week off work with a list of someone else’s recommendations, the expedition that attempts to claim someone else’s heroism. Unlike the early 20th century, the present day reserves fewer spaces for the intrepid alone. Institutional backing and a high tolerance for discomfort no longer guarantee a serene or transformative experience. Today’s travel requires different sensitivities. It demands that you develop an aesthetic dowsing rod to avoid the “city break” hordes.
+
+(And wasn't I taken by the very same impulse? Travel writers are the shock troops of global malaise. I've swilled unpasteurized yogurt in all the soft-lined and warm-lamped cafes of Porto and Kyoto, "getting some work done in the morning and hitting the museums after lunch." I’ve been paid to write profanity like "Thirsty? Here are Istanbul's ten best third-wave coffee spots." Enough! Have some dignity and leave that stone unturned. Suck down whatever's at hand and quick, back to your oars! There will be time enough for Yelp reviews in the grave. Fly wherever's cheapest and learn to throw knives in the first bar you find. Take a ferry to an island off the coast and miss the day's last return. You'll meet a woman there with clairvoyant eyes who will press a warm stone into your palm. Your leisure should be ferocious. It should take more from you than you thought you had to give, but too many face their vacation like a period of mourning.)
+
+At every junction ask yourself: what sensations are unique to our age? “The destruction of distance” has created new effects of layering: those unreal reveries of jetlag that mark my first night in many countries, hours when the body is walking the streets of Istanbul at dusk while the soul is still laboring through the morning fog of the Thames. 
+
+Pursue your personal canon to its obscure points of origin. When I sought out the seldom-visited locations that inspired some of my favorite films and novels, I was drawn naturally, fatefully, to some of the most intense experiences of my life. A beloved anime led me to a decaying student dorm in Kyoto and one of the warmest outposts I’ve encountered. Following another down the coast of the Izu peninsula, I found a circular sea cave, open to the sky like an amphitheater, where I passed the frigid hours of a winter storm. And like some astounding cosmic sorting algorithm, the cheap flights also brought exactly the right people to these very spots - people whom I would never otherwise have met.
+
+Assign yourself highly personalized and esoteric errands. A soft-spoken man walks the suburbs of Seoul each night, trailing millions of viewers behind him like a phantom parade; I loved these walks, so I joined him on one in person. Prompted by his obsessive knowledge of Google Earth, GeoWizard traverses countries in unerringly straight lines - a feat in all ways more heroic than it sounds. There are more people crossing the seas on vessels of their own creation than in any previous age, more people exploring derelict infrastructure on improvised railcarts, more people buying whole abandoned towns and digging their own mine shafts. For all their perversity, cheap flights and the financial structures of the internet have enabled this renewed focus on place, expanding a whole generation’s view of “travel” beyond a box-ticking exercise.
+
+Embed yourself in odd institutions, real or invented. Take jobs that let you into the back rooms of cities to which you have no connection. Cast yourself mentally as a fugitive or spy. Pursue some private fantasy and share it with no one. Delight in the surreal ease of shedding your identity continuously. None of this has ever been easier; you can do so recklessly, ceaselessly, and if you know how, it’s cheaper than sitting still in any major city.
+
+Everest was never on the table for me, and I don’t mourn its loss. It has been ascended so often, written about so well, felt so deeply by those for whom its summit represented the key backdrop of their life. In its cultural ubiquity, it always felt spoken for, even pre-packaged: someone else’s dream. In any case, don’t these photos of lawyers and orthodontists swarming Everest show its grandeur in more intense detail? That it still dwarfs and conquers the insects climbing it? Once in a Southern Californian hot tub, I heard a dentist describe his hallucinatory summit: ”Ninety seconds of euphoria followed by two months of agony. At first I couldn’t stay awake, then it moved into my feet. They tingled and stayed hot all night. I saw things in the dark.”  After a thoughtful pause, he added, ”It was still the best hundred grand I’ve spent.”
+
+I enjoyed his monologue, and enjoyed it more for its setting: the way his face shifted between the acidic light of the jacuzzi and the shade cast by a palm. But it also offered a blissful reminder of the gulf that lies between our desires. The Scottish hills, one sixth of Everest at their highest, defined years of my youth - taught me the meaning of longing, fear, friendship. Hanging from a single ice ax under the Fiacaill Buttress, a thousand meters feels every bit as far as eight. Every person I have met on those sometimes-crowded peaks - every beneficiary of the miracle of cheap travel - has added immense depth to my experience of them. You have to create your own mythology if the world isn’t supplying it. 
+
+In The Idea of North, Peter Davidson introduces the work of artist Reinhard Behrens as a lifelong dedication to this sort of imaginative project, a committed invention of place - and the mythologization of one’s own journey into it:
+
+>When he began to travel as a student he first went to Iceland and Norway - distant northern lands, places with icy and volcanic landscapes - but he felt isolated by language, and they did not answer precisely his imagination of northness. In contrast, Scotland offered the first real places to correspond to his inner world. Minutes after his arrival in 1979 on the Hamburg to Newcastle ferry, he saw his first British road sign reading simply ‘The North’. This generalization, as opposed to the precise reckoning of kilometers on Continental signs, struck him as transformational, poetic.
+
+>Soon after, he found the physical equivalent for his imaginary arctic land in Scotland, on the snowy plateau of the Cairngorms. In 1979-80 he travelled and climbed in the Scottish hills, playing with an echo of extreme explorations, imagining the wintry Cairngorms into the Himalayas and the Arctic. His companions in the Edinburgh University Mountaineering Club ‘Monroe-bashing on Mars Bars’, with their intrepidity and self-sufficiency, their reluctance to stop for a second to look at a view, became in his imagination the descendents of Victorian explorers…
+
+Or ignore all this and follow the crowds gladly, enjoying the infinite interest of any human gathering - even the coffee shops. Craig Mod has built a career around his obsession with Japan’s infinite, charmingly neurotic variations on that format, using his walks between “kissas” to consider the fate of the country’s mid-sized cities. There are limits to this sort of writing - at moments it still strikes me as a more enlightened form of big city treat-seeking - but to be saturated in any aspect of the world is noble.
+
+If anywhere on Earth could prompt lamentations of global homogeneity, it was Yunnan: a region first chronicled by botanist Joseph Rock, hallucinated into the Cantos of Ezra Pound, revisited by Bruce Chatwin, and then taken up in the ‘90s by a Deng Xiaoping-era blog that draws together these strands. You can trace through these pieces of writing an entire genealogy of decline: how a place of intense and remote specificity fell first into the misery of communism and then the misery of commercialism.
+
+I arrived in Lijiang two months ago with all this context in mind and found something far more aesthetically engaging than I could have imagined. By night, the stone huts are lit in the swirling neon of suburban Halloween decorations. Through this light and the competing soundtracks of a few dozen karaoke bars stride pale regal Beijingers in the imagined costumes of the old Nakhi. They are pursued along the Song Dynasty canals by photographers hired to capture them in scenes of staged triumph: stretching back the imagined string of a plastic bow, eating slabs of yak meat. Dressed garishly like a culture they have removed and replaced, they lend the city an actual ghostly quality each night: the apparition of these faces in the crowd, a worthy funerary rite and a scene unique to our time.
+
+![](/assets/images/shining1.jpg)
+![](/assets/images/shining2.jpg)
+![](/assets/images/shining3.jpg)
+![](/assets/images/shining4.jpg)
+![](/assets/images/shining5.jpg)
+![](/assets/images/shining6.jpg)
+
+In the central square, police stand on small plastic stools to see over the crowd, prepubescent in their riot gear, dwarfed by their own miniature assault rifles. Down every branch of the old low market district, shops owned by the government all sell one of a few identical objects, made and imported from other provinces to resemble some hazy, generalized fantasy of local heritage. There is a particular and inexplicable fixation with the bongos, which the young women in the shops tap on slowly, following DDR-style instructions on their phones. 
+
+Up on the trails of Tiger Leaping Gorge, at times little more than a boot’s width across, you can still find your specialty coffee: enterprising Nakhi herders who have set up Japanese-style pour-over stations like chemistry sets on folding tables.
+
+![](/assets/images/shining7.jpg)
+![](/assets/images/shining8.jpg)
+
+Wads of toilet paper have been thrown out in great fans over the pine needles of the slope. In a trailside lodge owned by the same family for nearly a thousand years, a Korean couple directed their two young sons as they live-streamed their romantic dinner under Pound’s “thin trace in high air”. The trail ends on a newly paved road, where a compound of tiny airbnbs has been styled like an upscale Arizonan RV park. And yet, less than an hour later, we were clinging to the “Brave 168 Ladders of Three Sessions”: an assemblage of corroded rebar repaired with lengths of dyed fabric, hundreds of feet over a gorge that would swallow us without a sound. These moments of vitality are enhanced, not diminished, by their proximity to the new and the profane.
+
+![](/assets/images/shining9.jpg)
+![](/assets/images/shining10.jpg)
+![](/assets/images/shining11.jpg)
+
+On the final morning, back in Lijiang to recover from our walk, we stopped into an empty coffee shop, its stage adorned with teepees and yarn dreamcatchers, decommissioned Chinese artillery shells, the kitsch of a Route 66 diner. A man scrambled out from behind the bar, took the stage, and began a mournful rendition of the theme songs from a number of popular Chinese soap operas, gesturing for us to record him on our phones.
+
+What can we make of any of this? It is the surreal and unique condition of our age. But these facts hold the same intensity and mystery as any lonely peak. The world is as rich as it ever was. Any belief less is cowardice and self consolation - Gerard Manley Hopkins opened and closed that question 150 years ago. Whenever we feel most keenly that “all is seared with trade; bleared, smeared with toil”, a second, greater voice replies: “And for all this, nature is never spent”.
+
+Distance has been destroyed. The world lurches forward in phantasmagoric collage. We can run from this fact, seeking ever deeper tracts of jungle to relive the idyll of the Victorian explorer - window shopping online for the last “vision quests” on the market - or we can accept the eternal and unvarying charge of the traveler: to remake the world as we experience it - and to be drowned, laughing, in the new.
