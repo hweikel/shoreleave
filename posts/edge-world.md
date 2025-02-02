@@ -1,6 +1,6 @@
 ---
 title: "The Edge of the World"
-description: "Desert drives in Saudi"
+description: "Weekends off in the Suburban"
 date: 2023-11-11
 previewImage: "/assets/images/desert16.jpg"
 layout: layout.njk

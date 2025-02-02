@@ -14,22 +14,33 @@
         <img src="{{ '/assets/images/shoreleave.jpg' | url }}" class="header-image">
         <div class="header-text">
             <h1><a href="{{ '/' | url }}">shore leave</a></h1>
-            <p class="motto">SEEKING: "a thousand forms of health <br/> and hidden islands of life"</p>
         </div>
   </header>
 
   <main class="posts">
     {% for post in collections.posts %}
-      <a href="{{ post.url | url }}" class="post">
-        <img src="{{ post.data.previewImage | url }}" class="preview-image">
-        <h2>{{ post.data.title }}</h2>
+      <a href="{{ post.url | url }} " class="post">
+        <div class="preview-image-container"  style="background: url('{{ post.data.previewImage | url }}') no-repeat center center;">
+                <h2>{{ post.data.title }}</h2>
         <p>{{ post.data.description }}</p>
+        </div>
       </a>
     {% endfor %}
   </main>
 
   <footer class="footer">
-    <p>sign up to receive updates: ___</p>
+    <p>
+      <form
+				action="https://buttondown.email/api/emails/embed-subscribe/shoreleave"
+				method="post"
+				target="popupwindow"
+				onsubmit="window.open('https://buttondown.email/shoreleave', 'popupwindow')"
+				class="embeddable-buttondown-form"
+				>
+				<input type="email" name="email" id="bd-email" />
+				<input type="submit" value="Subscribe" />
+			</form></p>
+    <p class="motto">SEEKING: "a thousand forms of health and hidden islands of life"</p>
     <a href="http://www.henryweikel.net">henryweikel.net</a>
   </footer>
   
