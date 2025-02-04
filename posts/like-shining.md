@@ -2,7 +2,7 @@
 title: "Like shining from shook foil"
 description: "An endorsement of new forms of travel"
 date: 2024-06-30
-previewImage: "/assets/images/shining7.jpg"
+previewImage: "/assets/images/shiningpreview.jpg"
 layout: layout.njk
 ---
 

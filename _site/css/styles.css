@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'SabonLTPro';
-  src: url('/assets/fonts/SabonLTPro-Roman.eot');
-  src: url('/assets/fonts/SabonLTPro-Roman.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/SabonLTPro-Roman.woff') format('woff'), url('/assets/fonts/SabonLTPro-Roman.woff2') format('woff2');
+  src: url('/shoreleave/assets/fonts/SabonLTPro-Roman.eot');
+  src: url('/shoreleave/assets/fonts/SabonLTPro-Roman.eot?#iefix') format('embedded-opentype'), url('/shoreleave/assets/fonts/SabonLTPro-Roman.woff') format('woff'), url('/shoreleave/assets/fonts/SabonLTPro-Roman.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-stretch: normal; 
 }
 @font-face {
   font-family: 'SabonLTPro';
-  src: url('/assets/fonts/SabonLTPro_Italic.eot');
-  src: url('/assets/fonts/SabonLTPro_Italic.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/SabonLTPro_Italic.woff') format('woff'), url('/assets/fonts/SabonLTPro_Italic.woff2') format('woff2');
+  src: url('/shoreleave/assets/fonts/SabonLTPro_Italic.eot');
+  src: url('/shoreleave/assets/fonts/SabonLTPro_Italic.eot?#iefix') format('embedded-opentype'), url('/shoreleave/assets/fonts/SabonLTPro_Italic.woff') format('woff'), url('/shoreleave/assets/fonts/SabonLTPro_Italic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
   font-stretch: normal; 
@@ -210,43 +210,37 @@ abbr,
 
   .posts {
     display: grid;
-    width: 90%;
+    width: 70%;
     margin: 0 auto;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 8px;
-    color: black;
+    gap: 1rem;
   }
   
   .post {
-    background-color: #fff8cd;
-    padding: .25rem;
     text-decoration: none;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    position: relative;
-    aspect-ratio: 4 / 3;
-
+    background-color: #fff8cd;
+    padding: .5rem;
   }
 
   .preview-image-container {
     width: 100%;
     aspect-ratio: 4 / 3;
     display: flex;
+    justify-content: center;
     align-items: center;
-    background-size: cover;
   }
 
   .post h2 {
-    margin: 0;
-    align-self: flex-start;
     margin: .5rem;
+    color: black;
   }
 
   .post p {
     font-style: italic;
-    align-self: flex-end;
-    margin: .5rem;
+    text-align: right;
+    color: black;
   }
   
   .footer {
@@ -272,6 +266,10 @@ abbr,
   article p {
     max-width: calc(21 * 1.25rem);
     margin: 0 auto;
+  }
+
+  article p.date + p {
+    margin-top: 0rem;
   }
 
   article p + p, 

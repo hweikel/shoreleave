@@ -2,7 +2,7 @@
 title: "The Cooper's Hill Cheese Race"
 description: "Running down a hill in Gloucester"
 date: 2023-12-29
-previewImage: "/assets/images/cheese13.jpg"
+previewImage: "/assets/images/cheesepreview.jpg"
 layout: layout.njk
 ---
 

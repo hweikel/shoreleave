@@ -1,5 +1,5 @@
 ---
-title: "Weekend Hauntngs"
+title: "Weekend Hauntings"
 description: "Encounters on either side of the isles"
 date: 2024-04-10
 previewImage: "/assets/images/hauntings1.jpg"
