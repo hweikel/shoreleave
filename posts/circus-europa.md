@@ -2,7 +2,7 @@
 title: "In Search of Circus Europa"
 description: "Pursuing atmospheric longings to Basel's 'three most beautiful days'"
 date: 2024-08-01
-previewImage: "/assets/images/fasnacht6.jpg"
+previewImage: "/assets/images/fasnachtpreview.jpg"
 layout: layout.njk
 ---
 

@@ -22,9 +22,9 @@
   <main class="posts">
     {% for post in collections.posts %}
       <a href="{{ post.url | url }} " class="post">
+        <h2>{{ post.data.title }}</h2>
         <div class="preview-image-container"  style="background: url('{{ post.data.previewImage | url }}') no-repeat center center; background-size: cover;">
         </div>          
-        <h2>{{ post.data.title }}</h2>
         <p>{{ post.data.description }}</p>
       </a>
     {% endfor %}

@@ -1,8 +1,8 @@
 ---
-title: "The Edge of the World"
-description: "Weekends off in the Suburban"
+title: "Summer in the Kingdom II"
+description: "Weekend drives to the edge of the world"
 date: 2023-11-11
-previewImage: "/assets/images/desert16.jpg"
+previewImage: "/assets/images/desertpreview.jpg"
 layout: layout.njk
 ---
 
@@ -53,10 +53,10 @@ Night fell. Someone offered a treatise on the physics of satellite design, and w
 We found it 40 miles southeast of the city, where a hole had been blown in a sandstone mesa and eight lanes dropped into a deep valley. At the bottom we pulled off and spent a few fitful hours in the car, soon giving up to hike out into the dunes. The sand was like pastry flour sifted into incredibly precise ridges, elsewhere corrugated with the patterns of the wind.
 
 Around 4am, the season's first breeze kicked up, and I got to enjoy an hour of 80 degrees, the coolest temperature I'd felt in a month, which I passed marveling at the density of human interest available anywhere. Some things I saw from my sleepless vigil on the side of a dune:
-*A man pulled off the highway in a sedan, dove into the pool of light cast by his headlamps, and threw a handful of sand into the air, watching it fall through the beams. Satisfied, he got back into the car and drove off up the hill. Seeing things like this occur in a country without alcohol makes them all the more powerful, suggestive of a truly crazed ecstasy.
-*Across the freeway at the valley's lowest point was the largest thicket of trees I saw in Saudi—a wall of them surrounding a compound, completely impenetrable by night. Dozens of dogs barked at one another inside until just before dawn, when a man driving past sneezed so loudly out of his window that all the dogs fell silent.
-*The same super car roared down and then up the grade multiple times as if trying to make a point to the desert, prompting Syed to murmur "always more boy racers" in his sleep.
-*Meanwhile, a lifted Tacoma across the highway fared worse: driving up and sliding back down the same dune, trying desperately to reach his friend's identical truck on the peak. Each time he failed, he would reverse farther out into the freeway to gather momentum before rocketing back up, spraying great waves of sand behind him, and stalling. When he finally made it to the top, he stepped out into the other truck's headlamps and embraced the driver.
+* A man pulled off the highway in a sedan, dove into the pool of light cast by his headlamps, and threw a handful of sand into the air, watching it fall through the beams. Satisfied, he got back into the car and drove off up the hill. Seeing things like this occur in a country without alcohol makes them all the more powerful, suggestive of a truly crazed ecstasy.
+* Across the freeway at the valley's lowest point was the largest thicket of trees I saw in Saudi—a wall of them surrounding a compound, completely impenetrable by night. Dozens of dogs barked at one another inside until just before dawn, when a man driving past sneezed so loudly out of his window that all the dogs fell silent.
+* The same super car roared down and then up the grade multiple times as if trying to make a point to the desert, prompting Syed to murmur "always more boy racers" in his sleep.
+* Meanwhile, a lifted Tacoma across the highway fared worse: driving up and sliding back down the same dune, trying desperately to reach his friend's identical truck on the peak. Each time he failed, he would reverse farther out into the freeway to gather momentum before rocketing back up, spraying great waves of sand behind him, and stalling. When he finally made it to the top, he stepped out into the other truck's headlamps and embraced the driver.
 
 ![](/shoreleave/assets/images/desert11.jpg)
 ![](/shoreleave/assets/images/desert12.jpg)
