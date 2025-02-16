@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'SabonLTPro';
-  src: url('/shoreleave/assets/fonts/SabonLTPro-Roman.eot');
-  src: url('/shoreleave/assets/fonts/SabonLTPro-Roman.eot?#iefix') format('embedded-opentype'), url('/shoreleave/assets/fonts/SabonLTPro-Roman.woff') format('woff'), url('/shoreleave/assets/fonts/SabonLTPro-Roman.woff2') format('woff2');
+  src: url('/assets/fonts/SabonLTPro-Roman.eot');
+  src: url('/assets/fonts/SabonLTPro-Roman.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/SabonLTPro-Roman.woff') format('woff'), url('/assets/fonts/SabonLTPro-Roman.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-stretch: normal; 
 }
 @font-face {
   font-family: 'SabonLTPro';
-  src: url('/shoreleave/assets/fonts/SabonLTPro_Italic.eot');
-  src: url('/shoreleave/assets/fonts/SabonLTPro_Italic.eot?#iefix') format('embedded-opentype'), url('/shoreleave/assets/fonts/SabonLTPro_Italic.woff') format('woff'), url('/shoreleave/assets/fonts/SabonLTPro_Italic.woff2') format('woff2');
+  src: url('/assets/fonts/SabonLTPro_Italic.eot');
+  src: url('/assets/fonts/SabonLTPro_Italic.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/SabonLTPro_Italic.woff') format('woff'), url('/assets/fonts/SabonLTPro_Italic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
   font-stretch: normal; 

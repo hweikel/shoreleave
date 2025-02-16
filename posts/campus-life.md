@@ -11,100 +11,100 @@ I’d also been told that Seoul was a city of campuses. Students enjoyed how eff
 
 Two hours after landing, I was at Ewha Womans University, where the first sight of the glass ravine had me in hysterics.
 
-![](/shoreleave/assets/images/1.JPG)
+![](/assets/images/1.JPG)
 
 It’s deeper than it looks online, and the paths on either side are planted with funny little topiary. As you walk down, there’s a moment where the campus reappears through two layers of glass over your left shoulder, and you realize that the thing is both carved into and built on top of the natural grade, transparent in some dimensions and fully submerged in others.
 
-![](/shoreleave/assets/images/2.JPG)
-![](/shoreleave/assets/images/3.JPG)
-![](/shoreleave/assets/images/4.JPG)
+![](/assets/images/2.JPG)
+![](/assets/images/3.JPG)
+![](/assets/images/4.JPG)
 
 Like all good campuses, Ewha is on a sharp slope. As you climb north, the trees gather in incredible varieties; paths fork off to department buildings and small glades. After half an hour, I was at the foot of Ansan. Though nobody could tell me why, Korean universities are always built around mountains, with one peak serving as many as three campuses, each with their own set of trails. The conceit of a good athletic chant, I was assured, often rested on a lewd comparison of mountain height.
 
-![](/shoreleave/assets/images/5.JPG)
-![](/shoreleave/assets/images/6.JPG)
+![](/assets/images/5.JPG)
+![](/assets/images/6.JPG)
 
 That’s how it was with Ansan, too: another trail leading down into trad, ivy-bound Yonsei, distant outpost of the UCEAP federation. Outside the media studies building, two Americans discussed their PhD applications in tidy east coast accents.
 
-![](/shoreleave/assets/images/7.JPG)
-![](/shoreleave/assets/images/8.JPG)
-![](/shoreleave/assets/images/9.JPG)
+![](/assets/images/7.JPG)
+![](/assets/images/8.JPG)
+![](/assets/images/9.JPG)
 
 I found my way back to Ewha and the trench as the sun set. The two girls in green cloaks were still there, holding hands and singing. 
 
-![](/shoreleave/assets/images/10.JPG)
-![](/shoreleave/assets/images/11.JPG)
-![](/shoreleave/assets/images/12.JPG)
-![](/shoreleave/assets/images/13.JPG)
+![](/assets/images/10.JPG)
+![](/assets/images/11.JPG)
+![](/assets/images/12.JPG)
+![](/assets/images/13.JPG)
 
 As the light changed, the catacomb libraries appeared through the glass.
 
-![](/shoreleave/assets/images/14.JPG)
-![](/shoreleave/assets/images/15.JPG)
+![](/assets/images/14.JPG)
+![](/assets/images/15.JPG)
 
 I came upon tropical Hongik a few nights after: moonlight and brutal halogen, more trees than buildings. Unfinished ponds trailed off into thickets of bamboo.
 
-![](/shoreleave/assets/images/16.JPG)
-![](/shoreleave/assets/images/17.JPG)
-![](/shoreleave/assets/images/18.JPG)
-![](/shoreleave/assets/images/19.JPG)
-![](/shoreleave/assets/images/20.JPG)
+![](/assets/images/16.JPG)
+![](/assets/images/17.JPG)
+![](/assets/images/18.JPG)
+![](/assets/images/19.JPG)
+![](/assets/images/20.JPG)
 
 A week later, stoic, martial Sogang made me late for dinner. I stopped to watch the young Jesuits practicing football and cheerleading under a red sky. Then I ran up a path to Nogosan, all 106 meters of it slashed with rose. 
 
-![](/shoreleave/assets/images/21.JPG)
-![](/shoreleave/assets/images/22).JPG)
-![](/shoreleave/assets/images/23.JPG)
-![](/shoreleave/assets/images/24.JPG)
-![](/shoreleave/assets/images/25.JPG)
-![](/shoreleave/assets/images/26.JPG)
+![](/assets/images/21.JPG)
+![](/assets/images/22).JPG)
+![](/assets/images/23.JPG)
+![](/assets/images/24.JPG)
+![](/assets/images/25.JPG)
+![](/assets/images/26.JPG)
 
 I did my next four campuses in one long day. August, mirthless Kyung Hee was empty in the morning except for its uniformed security guards, regal landscaping, and high Corinthians. The roads all wound up to the Grand Peace Hall with its stained glass in pastels and chrome-clad children proclaiming the dawn of Neo-Renaissance, the fusion of tradition and innovation, even the “end of identity”.
 
-![](/shoreleave/assets/images/27.JPG)
-![](/shoreleave/assets/images/28.JPG)
-![](/shoreleave/assets/images/29.JPG)
-![](/shoreleave/assets/images/30.JPG)
-![](/shoreleave/assets/images/31.JPG)
+![](/assets/images/27.JPG)
+![](/assets/images/28.JPG)
+![](/assets/images/29.JPG)
+![](/assets/images/30.JPG)
+![](/assets/images/31.JPG)
 
 I walked up a path that faded into forest and found an old man sitting between massive stone urns.
 
-![](/shoreleave/assets/images/32.JPG)
+![](/assets/images/32.JPG)
 
 The College of Music was something out of an Inigo Jones set. I linger on Kyung Hee because something was wrong with it. I think about it often but would be hesitant to return.
 
-![](/shoreleave/assets/images/33.JPG)
+![](/assets/images/33.JPG)
 
 Minutes away was breezy Hankuk University of Foreign Studies, enlivened by a student activity fair but still in gloomy Kyung Hee’s shadow. The people manning the Outdoors Club table saw my Los Padres National Forest hat and stopped me. We talked about Hallasan and Seoraksan and the Korean fixation with building colleges around mountains. I couldn’t convince them that I wasn’t another American exchange student named Nick that they’d met earlier that day. “You so funny, Nick. New haircut. Pretend you don’t know me.” Groups of students in colorful clothing milled around, laughing and speaking in English. I could tell that the one student I saw up at Kyung Hee (double-breasted suit and a center-part) wouldn’t have tolerated them.
 
-![](/shoreleave/assets/images/34.JPG)
+![](/assets/images/34.JPG)
 
 Entering through the back, K-Arts felt like someone else’s memory of a summer camp. There were sandy lots and whitewashed buildings and students practicing traditional drum music in the studios above; everything smelled like pine needles and cinnamon. These last three campuses all clung to the base of Cheonjangsan and the Uireung burial mounds, which I climbed for a better view of the Grand Peace Hall.
 
-![](/shoreleave/assets/images/35.JPG)
-![](/shoreleave/assets/images/36.JPG)
+![](/assets/images/35.JPG)
+![](/assets/images/36.JPG)
 
 Taking another path down, I found the real center of K-Arts: a sleek campus with a mesmerizing interior of long hallways and yellow doors. I stopped to watch an acting lesson where a girl sobbed on stage and pounded on her “boyfriend’s” chest. As soon as the teacher called ‘cut!’ (or something equally abrupt in Korean), the girl shook her head to send the fake tears flying, laughing brightly at her performance.
 
-![](/shoreleave/assets/images/37.JPG)
-![](/shoreleave/assets/images/38.JPG)
-![](/shoreleave/assets/images/39.JPG)
-![](/shoreleave/assets/images/40.JPG)
+![](/assets/images/37.JPG)
+![](/assets/images/38.JPG)
+![](/assets/images/39.JPG)
+![](/assets/images/40.JPG)
 
 I made it to Korea University around sunset (a big dog: the K in SKY). The wind was warm and there were thousands of students gathered to watch an idol perform in the central quad. Many were from other universities, revealed by the letterman jackets (a Korean favorite, like anything from 1950s Michigan) floating through the crowd on those broad Yonsei shoulders.
 
-![](/shoreleave/assets/images/41.JPG)
-![](/shoreleave/assets/images/42.JPG)
+![](/assets/images/41.JPG)
+![](/assets/images/42.JPG)
 
 Some professors played tennis in a vast gym under the parking structure, immune to it all. Upwind, a sign offered the bright promise of the “Campus Ice Rink” (the first such delight I’ve encountered), but I had to get to a fish market before it closed.
 
-![](/shoreleave/assets/images/43.JPG)
-![](/shoreleave/assets/images/44.JPG)
+![](/assets/images/43.JPG)
+![](/assets/images/44.JPG)
 
 The next day, a bus stopped on a mountain pass to deposit me at Sungkyukwan: a campus that fell perilously into Jongno along a series of switchbacks. I have a few friends who studied here, but I never pictured them as alpinists. Nearby, a breakfast cafe called “The Second Best in Seoul” served a sweet, cold cinnamon soup and red bean porridge.
 
-![](/shoreleave/assets/images/45.JPG)
-![](/shoreleave/assets/images/46.JPG)
+![](/assets/images/45.JPG)
+![](/assets/images/46.JPG)
 
 I’ve had a lot of time lately to think about why walking around college campuses in foreign countries takes up so much of my time at 26. How many of us are out here doing this? I’ve thought about calling a convention: serving plates of sandwiches and asking everyone to please close their eyes and imagine a campus that could hold their youthful attention forever. Most of my friends describe dreams set in campuses like these, places assembled from the schools we’ve all loved and the schools we’ve yet to find. Is this a common fixation? Did men born between 1994 and 1997 have something corrosive on sleeping eyelids laid? Whenever someone wants to tell me about their major instead of their campus, we rarely have much in common. College should wound you—and leaving it should cast you into disarray and half a decade of Shore Leave. You have to leave all your papers on the Ticonderoga and shoot billiards with the midget. Using four of your most vital years as an “opportunity for growth” is disrespectful.
 

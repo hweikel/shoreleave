@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "env NODE_ENV=production eleventy --pathprefix 'shoreleave'",
-    "serve": "env NODE_ENV=production eleventy --pathprefix 'shoreleave' --serve"
+    "build": "eleventy",
+    "serve": "eleventy --serve"
   },
   "keywords": [],
   "author": "",

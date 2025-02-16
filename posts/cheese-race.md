@@ -10,7 +10,7 @@ There were reporters from Norway, Australia, Japan, and Brazil, but they all ask
 
 They all reveled in missing the point of the event, which was simply that: The hill is steep, so I will run down it. Back in the depths of heroic time, when some peasant farmer conceived of a race down Cooper's Hill as a way to sort out the local grazing rights, he was simply mythologizing what he would have been doing anyways. The cheese was always an excuse, never a motivation.
 
-![](/shoreleave/assets/images/cheese1.jpg)
+![](/assets/images/cheese1.jpg)
 
 The train through the Cotswolds was full of American families delighted by everything. "Susie, do you see that stone wall? Susie, put your phone down; there's a vine climbing up the wall."
 
@@ -18,14 +18,14 @@ I got off ten miles early, drawn from the train by the intricate shadow cast by 
 
 In Painswick, a narrow green belt cut across the side of a hill with small hedgerows opening into back gardens like corridors in a maze. I followed the only person I saw, an old woman in a gauzy aquamarine shift who was always just around the next bend. Eventually she disappeared between the fused topiary of a spare and dusty churchyard. There is always a sense of having missed by three to four decades the English Village you spent your childhood desiring, and of finding in its place a highly self conscious replica. The pubs are 16th century receptacles for a fussy Victorian sentimentality: sticky toffee pudding, triple cooked chips, that desperate Windsorite love of the twee trio. There are no priests solving murders. Somewhere on the dozen lavish pages of the menu is an admission, hidden under a typographical flourish, of ownership by a holdings company in London.
 
-![](/shoreleave/assets/images/cheese2.jpg)
-![](/shoreleave/assets/images/cheese3.jpg)
+![](/assets/images/cheese2.jpg)
+![](/assets/images/cheese3.jpg)
 
 The first visitation came in Brockworth—the sort of English town that you are not told about abroad. Stepping out of a Co-Op with two bags of apples and peanut butter, I saw Cooper's Hill ascend like a heavenly ski ramp and ran the final mile through back lanes and open fields.
 
 The hill was framed on two sides by dense forest, cordoned off on all four with an orange plastic mesh. I made my way up the center, surprised at how hard it was to keep from toppling backward even at a crawl, and five minutes later took my first look down beside an elegant couple who had flown that day from Tokyo. It was 600 feet long and as wide as a highway: concave to the extent that no photo could capture its grade. To the left, a deep pockmark cratered the slope; to the right, thick clumps of grass had been polished down to a Velodrome smoothness.
 
-![](/shoreleave/assets/images/cheese4.jpg)
+![](/assets/images/cheese4.jpg)
 
 More tourists appeared, rekindling a suspicion that certain British events don't come fully into existence until a bunch of Americans and Australians arrive to observe them, shouting as they launch drones and unload cases of beer from the largest cars that can be rented at Heathrow. At the base, a family from DC introduced themselves as political exiles, having fled Trump to Sweden. Now, they said—as if these two events had some intrinsic or causal connection—they had come to see the cheese race. The mom was intensely friendly with no visible pores, recalling my childhood distrust of charter school parents: their scrubbed high definition awakeness and aura of spiritual menace. A Californian couple, early 40s and platinum blonde to their shoulders, administered themselves like the West Coast antidote, referring to me only as "baby!" or "the man".
 
@@ -39,12 +39,12 @@ He announced frequently that he wouldn't be running this year—that it wouldn't
 
 At dusk, everyone cleared off to airbnbs in the Cotswolds except one tent of Swiss teens. I rigged up my hammock between two trunks perched over a sprawling hollowed out root structure. The light in the copse was an evil red, and the back end of each gust sucked my hammock out over a plummeting gully. I tore it all down and dragged it out to a patch of clover that looked out over the lights of the valley.
 
-![](/shoreleave/assets/images/cheese5.jpg)
-![](/shoreleave/assets/images/cheese6.jpg)
+![](/assets/images/cheese5.jpg)
+![](/assets/images/cheese6.jpg)
 
 I woke coated in dew some time before 5. An angelic glow flowed up over the edge of Cooper's Hill. I hid my backpack in a dark hollow beneath some roots and walked a few miles to an industrial estate, where I took turns bathing in a Costa sink with a man who lived in his car. On the walk back, I encountered an albino charger in a field of gold.
 
-![](/shoreleave/assets/images/cheese7.jpg)
+![](/assets/images/cheese7.jpg)
 
 I returned to a hill transformed: to the first signs of a crowd that would grow to thousands by the morning's end. I found myself anxious to assert a sort of sovereignty over the hilltop, slipping into conversations that I had slept up here. A weathered couple I had befriended the night before, two people glowing with the good luck of having found one another later in life, offered to get my backpack back to London if the race went poorly.
 
@@ -62,23 +62,23 @@ Just before the race, a Japanese reporter was allowed through the gate for forma
 
 The reporter was sent out. The master of ceremonies lifted the wheel of cheese over his head and a low violent chant spread all over the hillside and back into the trees, thousands of voices stretching over a mile away: Cheese. Cheese. Cheese. Cheese. Somehow in that moment the event transcended a bad joke and become something ritualized, ancient, terrifying. Looking out at the faces of the Britons between the trees, I wondered if this was how the first Roman legionaries had felt. I saw that they were here not for novelty but for carnage. As the village elder called out the rules over the chant, I looked over in a trance and saw his enormous deputy in the spangled hat grinning cruelly at us, a moment that haunts me to this day. Then the cheese was lowered and the organizers began their slow count to four. I became acutely aware of the cruel irreversibility of time.
 
-![](/shoreleave/assets/images/cheese8.jpg)
-![](/shoreleave/assets/images/cheese9.png)
+![](/assets/images/cheese8.jpg)
+![](/assets/images/cheese9.png)
 
 Then: nothing, just motion and the collision of bodies. I recall only one detail from the race itself: a bearded Australian laughing fiercely as he spiraled past me. Then I was cradled in the kind arms of the linebackers—lifted into the light, I thought, much like the cheese had been moments before.
 
 The Canadian bouncer was totaled. He had crossed the hill in a flagrant diagonal, entered the pit, and begun a series of tight inversions that bounced him back across the face to end where I did at about the same time. The first thing I noticed after the catchers hurled me back to earth was his pale placid face very near me as he repeated the phrase "both out and shattered". I looked down and saw that he was referring to the lower half of his leg, which had left its normal mooring and snapped clean in two. Volunteers rushed in with a blanket to block the streamers zooming in on the gore.
 
-![](/shoreleave/assets/images/cheese10.jpg)
-![](/shoreleave/assets/images/cheese11.jpg)
-![](/shoreleave/assets/images/cheese12.jpg)
-![](/shoreleave/assets/images/cheese13.jpg)
+![](/assets/images/cheese10.jpg)
+![](/assets/images/cheese11.jpg)
+![](/assets/images/cheese12.jpg)
+![](/assets/images/cheese13.jpg)
 
 I staggered over to clutch at the pilot Matt only to realize that he was mid-interview—and that he was holding the cheese. "Hello, BBC News. I'm sure our viewers would love to know: Why?" I did interviews in three languages, validation of a long period of fruitless hobbies. An Australian sportscaster asked me if I was hurt, so I did an on-air tally. To the broken toe I had added an immobile wrist and ankle; a sheet of blood ran down the backs of my thighs and coated my palms. He asked where it was coming from, but I only smeared it around in dumb perplexed silence while I searched. They didn't use the footage. Then Chris Anderson lost the second men's heat, an unconscious Canadian won the first women's, and we were quickly forgotten.
 
 For the next few hours I meandered up and down the hillside in long slow circles, basking in a minor celebrity. As the later heats of the race grew less serious, the tone of the event somehow darkened. The sun was unbearably intense, but the crowd kept growing. Vans arrived to sell donuts and hamburgers. The forested slopes were covered with people stunned by the heat or crawling up for a better view. I watched an obese family collaborate to pull themselves into the lowest branches of a tree and then lose hold of their daughter, who slid back down and disappeared into the crowd. There were interminable delays between each race: ambulances blocked by ice cream vans, a 20 minute altercation over megaphone between a youtuber who had jumped the fence and the head of the volunteer parademics.
 
-![](/shoreleave/assets/images/cheese14.jpg)
+![](/assets/images/cheese14.jpg)
 
  Everyone assembled was so intensely hungry for injuries, which the racers offered in profusion with pops and cracks that echoed out into the fields. In one of the final heats, a young streamer changed his mind just as the cheese was released but was carried forward by his own desperate momentum. He spent the first half of his descent clawing at the hill, and only managed to stop when he broke loose and flew with a horrible wet sound into a narrow outcropping near the bottom. Crumpled against the ledge, he held up his thumb for the crowd, amazed at the new angle it formed with his hand. Thousands of voices let out the same sated groan.
 

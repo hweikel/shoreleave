@@ -16,7 +16,7 @@ I had sworn repeatedly that I'd avoid the M4, but the roundabouts always swung m
 
 Across the road, a brooding hostel marked the path up toward Pen y Fan, where a man at the Slough service station had assured me I'd find a small lake where backpackers were tolerated. Forty minutes later, I gained a broad plateau of bruised heather and quickly left it behind, following a muddy ridgeline that hooked to the left. On the occasions I struggled to look up, I could see only a few feet ahead.
 
-![](/shoreleave/assets/images/hauntings1.jpg)
+![](/assets/images/hauntings1.jpg)
 
 At first it seemed a figure, slanting and stoic against the wind. As I stumbled toward it, the shape resolved into a lone flake of mossy stone only a few feet from the edge. Gripping it with both hands against the driving rain, I could just make out its inscription, which read:
 
@@ -44,16 +44,16 @@ Even after countless nights, you never sleep well in a car. You start in the dri
 
 Days later I was on Beachy Head, contending with the ghosts of the other side of the island. I'd limped my bike across the South Downs: past astounding windmills steadied by outriggers and down slick hills of grass, untouched like powder. Cramping out on a hilltop, I paused to compare gear with retired solicitors: their sleek gravel bikes sitting beside what I'd achieved on the dawn train to Hassocks, a collection of objects tied to the steel frame of my single speed with ragged bits of paracord. The final climb traced the border of Friston Forest, a sea of ancient beech barely contained behind a low sandstone wall, its canopy rolling in one skeletal mound, touched by the faintest pink.
 
-![](/shoreleave/assets/images/hauntings2.jpg)
-![](/shoreleave/assets/images/hauntings3.jpg)
-![](/shoreleave/assets/images/hauntings4.jpg)
+![](/assets/images/hauntings2.jpg)
+![](/assets/images/hauntings3.jpg)
+![](/assets/images/hauntings4.jpg)
 
 I hadn't seen a photo of Beachy Head, so its scale was shocking: a lonesome upland region of cliffs that fell 500 feet to a black shore, where the sea climbed half again as high to loom from the horizon. Basking on the chalky edge, I first noticed a drone hovering overhead—then two priests in high-viz vests sat down beside me. We chatted for a while, but the conversation kept returning to questions that sounded like a risk screening. I told them repeatedly, laughing, that I wasn't there to jump, but that word had the opposite effect. I became their main focus. Wincing as they tested their words, they negotiated my retreat from the section beyond their low rope line. And so began the game of evading the industrialized pastoral infrastructure of what was, unknown to me then, Britain's number one suicide spot. I would shake my priests' hands and try to look as optimistic as possible as I biked off across the ribbon of wet grass. But as soon as I found a new perch, the drone would appear, followed by two pinpricks of neon cresting the horizon; then they'd be back beside me, cooing ecumenically as the drone bobbed out in the open air. Feigning some revelation, I finally lost them in the tall grass fifty feet from the edge, where I set up my tent under the cover of a thick and luminous fog.
 
-![](/shoreleave/assets/images/hauntings5.jpg)
-![](/shoreleave/assets/images/hauntings6.jpg)
-![](/shoreleave/assets/images/hauntings7.jpg)
-![](/shoreleave/assets/images/hauntings8.jpg)
+![](/assets/images/hauntings5.jpg)
+![](/assets/images/hauntings6.jpg)
+![](/assets/images/hauntings7.jpg)
+![](/assets/images/hauntings8.jpg)
 
 I've come to distrust those who sleep easily when alone in a tent. The thru-hiker's absolute calm as they put in headphones for a podcast strikes me as a deadness or insensitivity. My nights outdoors are still marked by hours of painful spatial awareness and full-body fear. From inside a tent, individual sounds can rarely be identified over the wind, but this only hastens the arrival of incredibly specific hallucinations: the invention of ornate systems to track the movements of the dark manifestation you sense lurking fifty feet behind your left shoulder. It becomes important to arrange yourself such that you never present the back of your head to this presence.
 
@@ -61,6 +61,6 @@ There is always someone talking in England. Even at 3am on a rural cliffside, ev
 
 The next morning, I lashed everything to the bike, pinned myself to the frame, and soared down the stone switch-backs into Eastbourne. In one climactic moment, I plunged into the upper surface of the fog layer—shocked to discover that it was a discrete physical entity, a bounded world of wet grey light with a few-second duration—and shot out the other side. I touched neither the breaks nor pedals for a full 20 minutes, riding the momentum in a long loop past the great silent houses along the shore and into a town that felt stranded in time. I swam beside the white iron behemoth of the pier, a Victorian spaceship scaffolded into the sea, and was elated the whole journey home, tricked somehow by the past week's events into feeling that I had cheated death.
 
-![](/shoreleave/assets/images/hauntings9.jpg)
+![](/assets/images/hauntings9.jpg)
 
 These trips took days, sometimes nearly a week, to recover from. They amused everyone in my life, who seemed curious at how little I had to show for them. Common to them all was a moment, often in the early evening, when I encountered again the basic fact that the countryside is not a true wilderness in any sense, not even a bounded and managed one like the Cairngorms. I remembered that in Britain, while you are often alone, you are rarely out of sight of large groups of people, clumps of cheap housing, cars moving across the valley floor—but that when you do evade all of these, however briefly, you find a landscape suffused with dark and unresolved intensities. This tension is somehow key to the effect of the country; the constantly shifting gradient between these modes produces a sort of magnetic field, a source of potential energy; you slide ineluctably from Ballard's England to Wordsworth's and are pushed on again to the next. All of this manifests after sunset as a sudden sorrow or terror, so you find the nearest pub that is still open, very conscious as your meal arrives that you are using it as a sedative to hasten the arrival of fitful sleep. Then it's back to your tent that’s not as far outside of town as you remembered, or rather not as far from any of the three towns it seems to lie between, where you watch the passage of the cars across the valley, darker now, the hills painted a brief fierce gold by the headlamps—and you take a sort of domestic solace in imagining where they’re driving, or as you near sleep, that they might even be coming to pick you up.

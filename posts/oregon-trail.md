@@ -9,7 +9,7 @@ I rented a car and set out north for Oregon, where you could still get land for 
 
 I pulled off the 101 at Chualar and took the frontage road through the Salinas foothills, stopping to circle up into one of those developments in the canyons where the neon lawns cut into dead-gold grass right at the property line and everyone looks out suspiciously from cool, well-stocked garages.
 
-![](/shoreleave/assets/images/salinas.JPG)
+![](/assets/images/salinas.JPG)
 
 By early evening, I was in San Francisco. Ian had recently moved into a NoPa apartment with Alix, an engineer who worked on Macbook speakers. Alix gave off the sense of east coast power but was the only person I’d met who could match Ian’s enthusiasm for the world. We biked to Ocean Beach, swam, and decided abruptly  to leave for Oregon that night while dangling from the flimsy metal facade of the de Young.
 
@@ -17,13 +17,13 @@ Ian and Alix made out ferociously in the back seat as The Beths played and I dro
 
 The morning was crisp: a walk through Shasta’s wetland meadow, slimy sandwiches and pie and garlic bread in Klamath Falls, and then a series of stops to swim beside the highway. Before Bly, we cut north and the roads began to narrow—first to two lanes weaving through shrubby pines and then to nothing at all, a rocky surveyor’s path that struck out into the grid of perfectly rectangular BLM properties. There was a buzz in the car: somewhere out there was our land.
 
-![](/shoreleave/assets/images/shasta.JPG)
+![](/assets/images/shasta.JPG)
 
 The rental was a 2019 Jetta—poorly appointed for our new purposes, but the phone insisted that we were less than two miles away. Within minutes everyone was out walking beside the car, moving rocks and compacting sand to help our bald tires get traction. Manzanita branches tore long, delicate strips of paint from the car’s sides. Tory had decided to join us, and he took the first two riverbeds with a steady hand, telling stories through the open windows about his time off-roading a Prius in British Columbia.  
 
 We couldn’t find space to turn around, and each gulch was harder than the last. The front tires were on their way up before the back tires bottomed out, leaving enough clearance under the car for someone to crawl through. Finally, we pulled onto a long flat stretch and checked the directions: less than half a mile. Spirits were up, and we flew over rocks the size of watermelons toward a cluster of trees on the horizon and the land that would surely lie beyond—cheap land, land to build on, our land!
 
-![](/shoreleave/assets/images/oregon1.JPG)
+![](/assets/images/oregon1.JPG)
 
 An abandoned grey sedan was the first sign of trouble. With a child seat visible in the back, it lent a sense of finality to the impassable riverbed that we found moments later at the tree line, carpeted with boulders that looked to have been washed down in a recent flash flood. We decided to take a break and think of a plan, so I walked down amongst the boulders, dappled with that serene light that falls through Oaks in late spring.
 
@@ -47,7 +47,7 @@ Dad’s warnings about Oregon’s hatred of California came to mind, but the ren
 
 We managed to turn the Jetta around and followed slowly, repeating the process of going up and down each gulch as the man roared ahead, heedless of the slopes. Cheerful, fragmentary conversation shouted through the windows was interspersed with hushed debate in the rental. It was evident that he had no connection to the original plot and should have had no reason to know we were there to buy land at all. Alix said he wanted to kill us, but Tory only seemed amused. I made a half-hearted case for seeing his land, but Ian raised the image of our skins stretched out to dry in front of some decrepit trailer.
 
-![](/shoreleave/assets/images/oregon2.JPG)
+![](/assets/images/oregon2.JPG)
  
 Eventually we reached the main road. The man beckoned us to pull up beside him and turned in his chair. “Now, y’all are following me to see my property right?” To the right of the path, there was a narrow driveway that we hadn’t noticed on the way in, sloping down sharply and turning out of view into a dense thicket.
 
@@ -55,6 +55,6 @@ Eventually we reached the main road. The man beckoned us to pull up beside him a
 
 First Ian then Alix then Tory started to scream—“run, go, away”—and I complied, dropping into reverse and gunning it backwards up the path and out onto the highway, where we spun around and sped back past Bly, across the border, and toward the Bay, imagining the whole time that the man would burst through the tree line before us from some unknown backwoods path, handling us head-on with the pistol as we tried desperately to swerve.
 
-![](/shoreleave/assets/images/altaplaza.jpg)
+![](/assets/images/altaplaza.jpg)
 
 I spent the next day in the sun on the southern slope of Alta Plaza Park, where I spoke to Ortiz on the phone for hours.

@@ -24,7 +24,7 @@ Ortiz lived on the only bad street in Switzerland. His apartment was a narrow wh
 
 The other residents of Efringerstrasse seemed aware of the activity but completely undisturbed by it. While the Svenoids snarled and scrabbled in the street, or dragged in stolen bikes and threw themselves in desperation against Sven’s locked door, a young Swiss couple would eat pasta silently and then lie awake in bed for hours, staring immobile into one another’s eyes, their drapes wide open. Ortiz’s girlfriend, a cat-eyed Connecticut psychologist, guiltily proffered a pair of binoculars and we all fell into an electrified focus.
 
-![](/shoreleave/assets/images/fasnacht1.jpg)
+![](/assets/images/fasnacht1.jpg)
 
 It was as if the city had been synthesized from a set of desires that were recognizable and compelling—as close as any had come—but ultimately Ortiz’s rather than my own. He took me on a long walk up the west bank of the Rhine, over a bridge, and back down the east, crossing through three countries accompanied by only the subtlest changes in the particular forms of malaise on display, past long lines of Circus Europeans waiting with bags of discounted clothing to exchange one paper receipt with the border guard for another—not sullen, merely vacant, enthralled by a stillness that only residents of the Old World can achieve. And as we walked, Ortiz whispered that these same silent shamblers were gathering underground as they had for a thousand years, practicing in the kellers with their families’ “cliques” for what would begin that evening.
 
@@ -32,24 +32,24 @@ Midnight came. We gathered with instant coffee in the upstairs office of the Lit
 
 That music enacted a change, as if heralding our entry into a zone with a new physics, a cessation of normal motive and time. We descended through the old high doors of the university and were swept into the crowd, following the long row of swaying lanterns down a crooked road. There were brief lines of sight that stretched for miles, then all at once they were closed off as a row of houses slid across the road ahead. As we moved in uneasy orbit between the swaying cliques, more detail emerged—how some lanterns were smaller and worn like helmets, how others were large and painted in the jagged tessellations of stained glass, supported on carts that were pulled by three or four men; how the music was not one unified song but the overlay of dozens of subtly competing cliques, each in their own uniforms: the harlequins and napoleonic soldiers, grim pinocchios and birds; and how the cliques’ members seemed at first young in their strong movements, but looking closely at their uncovered hands and necks revealed them to be deeply wrinkled, the sort of hands you would find in nursing homes and funeral parlors.
 
-![](/shoreleave/assets/images/fasnacht2.jpg)
-![](/shoreleave/assets/images/fasnacht3.jpg)
+![](/assets/images/fasnacht2.jpg)
+![](/assets/images/fasnacht3.jpg)
 
 We flowed with thousands to gather in a stagnant swirl at the confluence of a number of roads. Every direction, close enough to kiss, the vast and unmarked faces of the Swiss revelers were framed in the crowd. They looked through us, benevolent and unseeing. When we eventually broke free and climbed to the low parapet of the Munsterplatz, we were struck by a sudden vision, very far down and reflected in the flowing surface of the Rhine, of two cliques meeting on the Mittlere bridge. It all recalled Huizinga's image of the processions of Late Medieval Paris:
 
 >They continued from the end of May into July and involved ever different groups, orders or guilds, ever different routes and ever different relics... All were barefoot with empty stomachs, members of parliament and poor Burghers alike; every one who was able carried a candle or a torch. There were many small children with them. Even the poor folk from the villages around Paris came running on bare feet... And heavy rain fell almost constantly during the entire period.
 
-![](/shoreleave/assets/images/fasnacht4.jpg)
-![](/shoreleave/assets/images/fasnacht5.jpg)
+![](/assets/images/fasnacht4.jpg)
+![](/assets/images/fasnacht5.jpg)
 
 My memory of the next few days is fragmentary. The three most beautiful days adopt their own surreal pacing, a bookmark out of time. We would return to the apartment to nap as needed, mostly in the late afternoon; otherwise we rode new currents, aware of the hallucinatory transition from the spare and haunting Morgestraich to the brash Guggenmusik, that completely separate hell that emerged on the nights known as Cortege, where parades ran in two frantic concentric rings in opposing directions around the city’s modern center, with farm trucks loaded with nightmarish Alasatian Waggis hurling oranges into the crowd, their children dumping confetti on anyone not wearing a small enameled Blaggede. We would flee this miasma into the depths of a clique’s keller, listen there to snarling orations under grotesque murals, and emerge to find that it was somehow now dawn—and that a single battalion was marching through the low gray light, tireless and shrill as they patrolled some lonely back alley. I passed a sign announcing the Consulate of the Kingdom of Lepmuria but could never find it again. Once, hours or perhaps days later, as I lost my companions and walked alone down a narrow road, I marveled at a clique bearing a lantern down a wavering parallel street, until I realized that the whole scene was only a reflection in a shop window: that the men clad in dark leather were walking beside me. 
 
-![](/shoreleave/assets/images/fasnacht6.jpg)
-![](/shoreleave/assets/images/fasnacht7.jpg)
-![](/shoreleave/assets/images/fasnacht8.jpg)
-![](/shoreleave/assets/images/fasnacht9.jpg)
-![](/shoreleave/assets/images/fasnacht10.jpg)
-![](/shoreleave/assets/images/fasnacht11.jpg)
+![](/assets/images/fasnacht6.jpg)
+![](/assets/images/fasnacht7.jpg)
+![](/assets/images/fasnacht8.jpg)
+![](/assets/images/fasnacht9.jpg)
+![](/assets/images/fasnacht10.jpg)
+![](/assets/images/fasnacht11.jpg)
 
 The people of that city were without a doubt the most beautiful I had ever seen, but it was an entirely inert beauty—a set of traits that elicited no response or sensation. When you turned a corner to find a group of clique members unmasked, they seemed to exist out of time, locked in scenes of slow immaculate leisure: emerging from a feathered breastplate to smoke benignly, as if captivated by the sudden anachronism of their position, the mask of a bird or demon disregarded at their feet. With their floss-thin hair swept behind their ears and their grey-blue eyes, they looked bloodless, literally lacking in blood, sculpted from some drab clay into masks of nobility and unfeeling calm. They smoked like extras on a film set in a silvery photo of early Hollywood. Only two or three times during that whole weekend did I see a clique member smile—and only then with a sort of grim satisfaction in throwing their trash on the ground, a delight allowed in Basel only during Fasnacht. 
 
@@ -59,9 +59,9 @@ Otherwise across the city there is a bare acknowledgement of the facts of life: 
 
 A diffused and aimless libertarianism animates Fasnacht. When I asked locals to translate cliques’ Zeedel, thin flyers of satirical verse as long as a CVS receipt, it was difficult to say exactly what was being mocked or resisted. The costumers took care to distinguish the features and headwear of their racial caricatures, as if aware only of their own atmospheric standards, the necessity only of a ferocious energy. Some of Ortiz’s expat peers left the city each year in protest—less because of any one aspect of the event than because of its tone, an old world frivolity incompatible with contemporary understandings of progress. Then there were moments when a battalion of four dozen Mickey Mouses would pass by with tubas and the whole event would seem less agential than you had first thought—as if this sudden lapse in taste revealed the Baslers as merely provincial and overly incredulous, on the precipice of a globalism that would smooth their horror away.
 
-![](/shoreleave/assets/images/fasnacht12.jpg)
-![](/shoreleave/assets/images/fasnacht13.jpg)
-![](/shoreleave/assets/images/fasnacht14.jpg)
-![](/shoreleave/assets/images/fasnacht15.jpg)
+![](/assets/images/fasnacht12.jpg)
+![](/assets/images/fasnacht13.jpg)
+![](/assets/images/fasnacht14.jpg)
+![](/assets/images/fasnacht15.jpg)
 
 At dawn on March 12th we looked up and the city was empty, all traces of the carnival wiped clean overnight. Somehow destabilized by this sudden loss, driven to jittery irritability by a phantom Guggenmusik, Ortiz and I were already unable to look one another in the eye. We stole a bag of groceries from Migros, walked to a truck stop at the edge of the city, and there, as a light rain settled over the highway, silenced somehow by the immensity of what we had seen, we took spluttering drags from a wet cigarette under a cardboard sign labeled Krakau and, like exiles of a dark dream, cast weary eyes to the northeast.

@@ -7,28 +7,28 @@ layout: layout.njk
 ---
 After a frantic stop in Morningside, we arrived in Aviemore after 6pm, cutting out into the Cairngorms with less than two hours of light. 
 
-![](/shoreleave/assets/images/IMG_1118.JPG)
-![](/shoreleave/assets/images/IMG_1121.JPG)
-![](/shoreleave/assets/images/IMG_1126.JPG)
+![](/assets/images/IMG_1118.JPG)
+![](/assets/images/IMG_1121.JPG)
+![](/assets/images/IMG_1126.JPG)
 
 We pitched up in Allt Druidh and soon had our first taste of the midges. At dawn, a low fog clung to the heather and ferns: the younger pines all veiled in webs and frost that caught the first light. 
 
-![](/shoreleave/assets/images/IMG_1140.JPG)
-![](/shoreleave/assets/images/IMG_1164.JPG)
-![](/shoreleave/assets/images/IMG_1166.JPG)
+![](/assets/images/IMG_1140.JPG)
+![](/assets/images/IMG_1164.JPG)
+![](/assets/images/IMG_1166.JPG)
 
 By mid-morning we were past the dogleg and out on the plateau. Braeriach’s peak was broader than I expected, rolling gently along the cirque’s ridge and then down toward the Pools of Dee. To our left, immense blocky shadows slid around on the floor of the corrie.
 
-![](/shoreleave/assets/images/IMG_1180.JPG)
-![](/shoreleave/assets/images/IMG_1185.JPG)
-![](/shoreleave/assets/images/IMG_1193.JPG)
-![](/shoreleave/assets/images/IMG_1195.JPG)
+![](/assets/images/IMG_1180.JPG)
+![](/assets/images/IMG_1185.JPG)
+![](/assets/images/IMG_1193.JPG)
+![](/assets/images/IMG_1195.JPG)
 
 From the Pools of Dee, the ridgeline starts to feel like an obstacle course, with a series of saddles and boulder fields connecting the three remaining munros and each of the minor peaks between. Even in high summer, the plateau is stark. As my phone died, a herd of reindeer appeared on the shoulder of Sgòr an Lochan Uaine and then flowed around us, meandering down toward Glen Feshie.
 
-![](/shoreleave/assets/images/IMG_1221.JPG)
-![](/shoreleave/assets/images/IMG_1231.JPG)
-![](/shoreleave/assets/images/IMG_1240.JPG)
+![](/assets/images/IMG_1221.JPG)
+![](/assets/images/IMG_1231.JPG)
+![](/assets/images/IMG_1240.JPG)
 
 After finishing on Bod an Deamhain, we cut down to Corrour, where a funny little Czech was sunning himself outside the bothy. While methodically ruining each bottle of his delicious mountain water with iodine, he warned us about ‘ze midgies’—a crisis we failed to appreciate until the next morning, when we woke to a low humming and skies black with bugs. 
 
@@ -36,7 +36,7 @@ They hung on the tent like a liquid: their strategy less to sting than to suffoc
 
 The rest was fragmentary: spam and eggs on a boulder field in the Chalamaine Gap, an endless trudge through the growing scar of logging fields around Morlich, and then that old favorite, the Pine Marten Bar.
 
-![](/shoreleave/assets/images/IMG_1244.JPG)
+![](/assets/images/IMG_1244.JPG)
 
 When Wheaton and I are together, there are an almost unsustainable number of conversations with strangers. One stands out—a Lithuanian cabbie who drove us back to Aviemore. When asked how he’d ended up in the Highlands, he first said “People leave you alone up here.” Then he got a distant look, reconsidered, and explained that he was running from a life he had built off the coast of Cornwall. 
 

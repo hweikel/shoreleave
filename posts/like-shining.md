@@ -40,25 +40,25 @@ If anywhere on Earth could prompt lamentations of global homogeneity, it was Yun
 
 I arrived in Lijiang two months ago with all this context in mind and found something far more aesthetically engaging than I could have imagined. By night, the stone huts are lit in the swirling neon of suburban Halloween decorations. Through this light and the competing soundtracks of a few dozen karaoke bars stride pale regal Beijingers in the imagined costumes of the old Nakhi. They are pursued along the Song Dynasty canals by photographers hired to capture them in scenes of staged triumph: stretching back the imagined string of a plastic bow, eating slabs of yak meat. Dressed garishly like a culture they have removed and replaced, they lend the city an actual ghostly quality each night: the apparition of these faces in the crowd, a worthy funerary rite and a scene unique to our time.
 
-![](/shoreleave/assets/images/shining1.jpg)
-![](/shoreleave/assets/images/shining2.jpg)
-![](/shoreleave/assets/images/shining3.jpg)
-![](/shoreleave/assets/images/shining4.jpg)
-![](/shoreleave/assets/images/shining5.jpg)
-![](/shoreleave/assets/images/shining6.jpg)
+![](/assets/images/shining1.jpg)
+![](/assets/images/shining2.jpg)
+![](/assets/images/shining3.jpg)
+![](/assets/images/shining4.jpg)
+![](/assets/images/shining5.jpg)
+![](/assets/images/shining6.jpg)
 
 In the central square, police stand on small plastic stools to see over the crowd, prepubescent in their riot gear, dwarfed by their own miniature assault rifles. Down every branch of the old low market district, shops owned by the government all sell one of a few identical objects, made and imported from other provinces to resemble some hazy, generalized fantasy of local heritage. There is a particular and inexplicable fixation with the bongos, which the young women in the shops tap on slowly, following DDR-style instructions on their phones. 
 
 Up on the trails of Tiger Leaping Gorge, at times little more than a boot’s width across, you can still find your specialty coffee: enterprising Nakhi herders who have set up Japanese-style pour-over stations like chemistry sets on folding tables.
 
-![](/shoreleave/assets/images/shining7.jpg)
-![](/shoreleave/assets/images/shining8.jpg)
+![](/assets/images/shining7.jpg)
+![](/assets/images/shining8.jpg)
 
 Wads of toilet paper have been thrown out in great fans over the pine needles of the slope. In a trailside lodge owned by the same family for nearly a thousand years, a Korean couple directed their two young sons as they live-streamed their romantic dinner under Pound’s “thin trace in high air”. The trail ends on a newly paved road, where a compound of tiny airbnbs has been styled like an upscale Arizonan RV park. And yet, less than an hour later, we were clinging to the “Brave 168 Ladders of Three Sessions”: an assemblage of corroded rebar repaired with lengths of dyed fabric, hundreds of feet over a gorge that would swallow us without a sound. These moments of vitality are enhanced, not diminished, by their proximity to the new and the profane.
 
-![](/shoreleave/assets/images/shining9.jpg)
-![](/shoreleave/assets/images/shining10.jpg)
-![](/shoreleave/assets/images/shining11.jpg)
+![](/assets/images/shining9.jpg)
+![](/assets/images/shining10.jpg)
+![](/assets/images/shining11.jpg)
 
 On the final morning, back in Lijiang to recover from our walk, we stopped into an empty coffee shop, its stage adorned with teepees and yarn dreamcatchers, decommissioned Chinese artillery shells, the kitsch of a Route 66 diner. A man scrambled out from behind the bar, took the stage, and began a mournful rendition of the theme songs from a number of popular Chinese soap operas, gesturing for us to record him on our phones.
 

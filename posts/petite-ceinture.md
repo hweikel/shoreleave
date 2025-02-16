@@ -9,42 +9,42 @@ Stunned by heat, light, and cold medicine in the Cimetière de Montmartre, Ortiz
 
 The Villa Du Bel-Air was silent and leafy, lined on one side with a delicate iron railing. After poking around the embankments for a few blocks, we found a small section of open track and from there, an easy climb onto the railway itself.
 
-![](/shoreleave/assets/images/ceinture1.JPG)
-![](/shoreleave/assets/images/ceinture2.JPG)
-![](/shoreleave/assets/images/ceinture3.JPG)
+![](/assets/images/ceinture1.JPG)
+![](/assets/images/ceinture2.JPG)
+![](/assets/images/ceinture3.JPG)
 
 The track quickly took on a dreamlike aspect, curving between old factories and rows of colorful tenements. I had a sudden memory of walking down the center of the 80 at night, northbound over SoMa.
 
-![](/shoreleave/assets/images/ceinture4.JPG)
-![](/shoreleave/assets/images/ceinture5.JPG)
-![](/shoreleave/assets/images/ceinture6.JPG)
-![](/shoreleave/assets/images/ceinture7.JPG)
+![](/assets/images/ceinture4.JPG)
+![](/assets/images/ceinture5.JPG)
+![](/assets/images/ceinture6.JPG)
+![](/assets/images/ceinture7.JPG)
 
 There was so much life on the tracks. The usual tent camps, enhanced by delicate little shrines of French artifacts: rusted rail equipment, scraps of fabric, a storm lamp of dazzling multicolored glass. We saw a sculptor's studio in the sunken entrance of an old rail station. Traces of cooking fires on a grassy stretch that would camp a few dozen. Shacks painted with circus stripes and French teens despondently lighting small fires.
 
-![](/shoreleave/assets/images/ceinture8.JPG)
-![](/shoreleave/assets/images/ceinture9.JPG)
-![](/shoreleave/assets/images/ceinture10.JPG)
-![](/shoreleave/assets/images/ceinture11.JPG)
+![](/assets/images/ceinture8.JPG)
+![](/assets/images/ceinture9.JPG)
+![](/assets/images/ceinture10.JPG)
+![](/assets/images/ceinture11.JPG)
 
 Our first tunnel loomed like a tropical ruin. A small hole had been cut in the bars, outlined in thick blue paint.
 
-![](/shoreleave/assets/images/ceinture12.JPG)
-![](/shoreleave/assets/images/ceinture13.JPG)
-![](/shoreleave/assets/images/ceinture14.JPG)
-![](/shoreleave/assets/images/ceinture15.JPG)
+![](/assets/images/ceinture12.JPG)
+![](/assets/images/ceinture13.JPG)
+![](/assets/images/ceinture14.JPG)
+![](/assets/images/ceinture15.JPG)
 
 As the entrance receded into a coin of light behind us, we lost all sense of time. Neither of us had ever been in an environment so consistently on the edge of visibility - a sort of darkness that always seemed to be touched by some distant source of light. 
 
 There were arched alcoves every few feet. Most were curtained off with blankets or occasionally linked to tents to form larger compounds. Pans and camp stoves scattered around the tracks seemed to indicate periods of manic culinary interest followed by week-long naps. Graffiti referenced rituals ("NVH dismemberment") illustrated with large red figures and little gold heiroglyphs. It all smelled much better than you would imagine.
 
-![](/shoreleave/assets/images/ceinture16.JPG)
-![](/shoreleave/assets/images/ceinturetunnel_boy.PNG)
+![](/assets/images/ceinture16.JPG)
+![](/assets/images/ceinturetunnel_boy.PNG)
 
 Some of the later alcoves opened to the sky, with metal rungs leading up to locked grates.
 
-![](/shoreleave/assets/images/ceinture17.JPG)
-![](/shoreleave/assets/images/ceinture18.JPG)
+![](/assets/images/ceinture17.JPG)
+![](/assets/images/ceinture18.JPG)
 
 It couldn't have been much more than a mile, but we both felt that a full, healthy phase of our life was ending as we reached the tunnel's end. Just as we'd joked would happen, it was blocked: a solid, unbroken row of bars with spikes on the top. A thick blanket had been laid over the spikes on one side, but there wasn't enough clearance from the wall to swing over. Staring dumbly at the gate, we had just begun to consider ways of tunneling under when a sound behind us broke free from the general echo of the tunnel.
 
@@ -68,11 +68,11 @@ We said all we could in French. The tunnel acrobat smiled and walked out into th
 
 Most of the day was spent in the overgrown, fenced off stretches, but we started to pass a few public parks - even the occasional restaurant or cafe that backed up onto the tracks, eco-sleek like a Californian preschool. We walked into one and asked for water, but the staff seemed confused where we’d come from and would only give us that sickly French drink that stands in for iced coffee.
 
-![](/shoreleave/assets/images/ceinture19.JPG)
+![](/assets/images/ceinture19.JPG)
 
 When the next tunnel came, we were cocky with the vicarious athleticism of our brief companion. It was shorter than the last, and halfway in, we goaded each other into turning off the flashlight. Within seconds I fell into a deep pit, rotating on the axis of my back foot like someone in a cartoon. A metal grate saved me but at the cost of my thigh, which a week on still feels like something very deep and specific inside it has been turned into carbonated water. Ortiz pulled me out and we staggered on through a long inhabited stretch, knee-deep in trash.
 
-![](/shoreleave/assets/images/ceinture20.JPG)
+![](/assets/images/ceinture20.JPG)
 
 Half a mile on, a sleepy woman in a decaying barn sold us bright blue jackets and made soft mewing noises at my limp. We came out somewhere near a canal, out of time and too sore to continue.
 

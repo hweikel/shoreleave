@@ -11,14 +11,14 @@ A desperate drive to the northern tip of Hokkaido had left me depleted and with 
 
 By contrast, Kyoto was like a commercial for the good life: warm and bright, split by the hale median of the Kamogawa into a grid of riverside parks and delicate wood houses. Long thin skerries dotted the river, covered with tall grass and patrolled by egrets and herons.
 
-![](/shoreleave/assets/images/shinshinshin1.jpg)
-![](/shoreleave/assets/images/shinshinshin2.jpg)
+![](/assets/images/shinshinshin1.jpg)
+![](/assets/images/shinshinshin2.jpg)
 
 Upstream, at the dramatic confluence of the Kamo and Takano, rows of broad stepping stones carved into turtles led out to a triangular delta, where the banks sloped sharply up to a tree-lined park. Students lounged everywhere, playing music and baseball, making short films, laughing as they ate convenience store desserts. I recovered quickly.
 
-![](/shoreleave/assets/images/shinshinshin4.jpg)
-![](/shoreleave/assets/images/shinshinshin3.jpg)
-![](/shoreleave/assets/images/shinshinshin4.png)
+![](/assets/images/shinshinshin4.jpg)
+![](/assets/images/shinshinshin3.jpg)
+![](/assets/images/shinshinshin4.png)
 
 I’d come to Kyoto to find Yoshida, an old student dormitory that had loomed in my imagination since college, when a show set there had seemed the key metaphor to my remaining months as a student. Treehaven, the faded Victorian hotel where we’d lived in Berkeley, seemed in many ways Yoshida’s Western twin: the same long dark-panelled hallways, the same aura of lively neglect.
 
@@ -28,7 +28,7 @@ Then he gave me the story. Since being built in 1913, Yoshida had been locked in
 
 As I stepped onto the long entry path, I got an immediate sense that the battle was going poorly. I had arrived in the middle of the student activity fair to a campus packed with booths and talent shows. Just one block over, Yoshida sulked in silence: the wood walls beautiful but visibly weathered, the roof coming down in places.
 
-![](/shoreleave/assets/images/shinshinshin5.jpg)
+![](/assets/images/shinshinshin5.jpg)
 
 I’d watched an old documentary on the conflict in Tokyo and knew the faces of the key players, but I was surprised to find that many were still there. I even saw the ringleader pacing between the buildings with a mane of black curls and a little entourage of Beatniks. He looked embattled, Churchill stalking between the war rooms, and the place had an overriding sense of being years into a conflict that it had already lost.
 
@@ -36,12 +36,12 @@ By the entrance, piles of papers spilled off a folding table. As I loitered by t
 
 I took my reading material and walked inside. Yoshida’s floorplan described a vast U, with two long parallel wings and an overgrown courtyard in the center. Distinctions between interior and exterior were limited, with doors that had clearly not been closed in decades leading out to thickets of bamboo or small untended vegetable gardens.
 
-![](/shoreleave/assets/images/shinshinshin6.jpg)
-![](/shoreleave/assets/images/shinshinshin7.jpg)
+![](/assets/images/shinshinshin6.jpg)
+![](/assets/images/shinshinshin7.jpg)
 
 A few students sprawled on the floor chatting, sitting amidst the collected debris of a century of the collegiate lifestyle. The corridors were long and dark, with paper trinkets dangling so low that you had to duck around them.
 
-![](/shoreleave/assets/images/shinshinshin8.jpg)
+![](/assets/images/shinshinshin8.jpg)
 
 Back down one of the corridors, some French girls cooked dinner in a blast zone of grease, the surfaces all plated with blackened tin foil. I asked if they lived there but only one bothered to look up, offering silence and a rusty little grimace. The pamphlet explained that Yoshida took in the occasional international students, and I wondered how they’d found this place and what they made of it.
 
@@ -55,17 +55,17 @@ At the top of the page, they listed the man’s name, Go Matsumura, and the name
 
 It was just shy of 9 when I found the place: an upstairs unit, perched above a little row of shops at the outer edge of a student neighborhood. Across the street, a forested hill loomed under a sliver of moon. The sidewalks were empty but a few of the shops had their lights on.
 
-![](/shoreleave/assets/images/shinshinshin9.jpg)
+![](/assets/images/shinshinshin9.jpg)
 
 I climbed a narrow staircase of pink and white tiles and knocked hesitantly on the door. A few seconds later, a young man’s narrow face slid out horizontally. He wore round wire frame glasses that made him look a bit like a cartoon character, with a few strands of hair standing straight up from a shaggy black bowl cut. He asked in a delicate voice if I would wait just a minute and then slipped back inside. When he reappeared, he introduced himself as Go and showed me through the door.
 
-![](/shoreleave/assets/images/shinshinshin11.jpg)
+![](/assets/images/shinshinshin11.jpg)
 
 ShinShinShin was a jazz kissa, a category that had been new to me a few weeks earlier but was now dear and familiar. Kissas are like dive bars, but smaller and without the aura of expectant violence. They play loud vinyl while people smoke and speak little or not at all, except when something in the room shifts and suddenly everyone is roaring together at the bar. ShinShinShin took this outline and gave it a literary bent. There were novels piled everywhere, a little loft for storage and a narrow alcove where one person could sit at a low table and read. The moonlit hill was framed in a bank of windows that opened over the street, making the space feel more like a treehouse than a business.
 
 Bottles of scotch were arranged lovingly over the bar, which managed to fit a turntable, hundreds of foreign cigarette boxes arrayed like a curtain wall, and neatly tended piles of local memorobilia onto a work surface maybe three foot by two. Everything fell under the low, dazzling light of a stained glass lamp, slightly angled to cast the greatest illumination on Go’s hands as he worked.
 
-![](/shoreleave/assets/images/shinshinshin12.jpg)
+![](/assets/images/shinshinshin12.jpg)
 
 On the only couch, two older men spoke gracefully. One wore a cowboy hat and a luxuriously sequinned shirt. For them, evidently, the opening time had been earlier.
 
@@ -93,7 +93,7 @@ Yuzu asked me if I believed in ghosts, and we all laughed at how obvious the ans
 
 Who wouldn’t have that night? There was such a ghostly symmetry to it all: finding a place that you’ve dreamed about for years and being handed a flyer there that leads to new friends with their own memories of your college town. Or opening a midnight cafe named after your favorite singer who then shows up and becomes a regular. If you believe that these connections are real and purposeful - that the contours of your life are traced rather than improvised - then things like this happen all the time. It would be stranger to imagine that they wouldn’t.
 
-![](/shoreleave/assets/images/shinshinshin13.jpg)
+![](/assets/images/shinshinshin13.jpg)
 
 I can’t say how many cups of coffee I watched Go pour through his little square of flannel in my week in Kyoto. I made myself a regular, always taking the same seat at the bar and learning about the small group who came in every night. There was a single mother restoring a traditional house west of the river, a Chinese lawyer who’d settled in Kyoto 17 years back after coming for law school, a local English teacher who graded essays late into the night. They all carried novels in their back pockets and traded jabs about their writing. I attended their open mic one afternoon, where the Kyoto chapter of the Dead Poets Society gathered to read bits of verse. Go puttered around in the kitchen, laughing at how intently Yuzu translated the fierce discussions of language.
 
@@ -105,7 +105,7 @@ After a few years of traveling, I finally found something that I’d been lookin
 
 I’d long claimed that no American abroad would ever be left alone on Thanksgiving, but come Thursday, Kyoto was starting to look like the exception. I’d had a near miss with two guys from Georgia, willing but Tokyo-bound and unsentimental about the holiday. By dusk I was looking pleadingly at every American accent I passed on the street. After a few conversations sunk in the river (“We’re a long ways out here, aren’t we?"), I ate alone in Kyoto’s ShakeShack while the Fleet Foxes played on repeat. Later, while sulking on the banks of the Kamogawa, I realized that ShinShinShin was the closest place I had to a home this far from California and walked back out there for another night of quiet revelry.
 
-![](/shoreleave/assets/images/shinshinshin10.jpg)
-![](/shoreleave/assets/images/shinshinshin14.jpg)
+![](/assets/images/shinshinshin10.jpg)
+![](/assets/images/shinshinshin14.jpg)
 
 By the time I headed back to my hostel, all the buses had stopped running. I walked along the Kamogawa for an hour or so, watching the students stumbling home across the stepping stones. Eventually I got tired and found a little bush that was open to the stars, laid down, and slept for a few hours until just before dawn. When I woke, the river was full of a pearly red light that was peaking over the mountains - and it was time to leave Kyoto.

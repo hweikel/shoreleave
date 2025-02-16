@@ -25,11 +25,11 @@ While passing the pinkish high-walled compounds of the diplomatic quarter, we ca
 
 Abdulrahman left me at the King Abdullah Financial District, deep enough into the night that I'd begun to appreciate the heat. By way of parting, he thrust his phone out of the window and let it say "You will like." It was an island of grassy hillsides terraced with meandering paths. At first it seemed like a golf course, but then I looked up and saw the wall of glass—jagged like the shards of some incomprehensibly large craft that had disintegrated upon entering the atmosphere. A student had said it was built it to be the world's largest finance center, connected directly to the airport by a monorail to let the bankers come and go without ever technically entering the Kingdom. But the foreign banks, worried about capital seizure, had never showed up, and now most of the buildings sat empty, the monorail incomplete—leaving the area quite literally inaccessible, for all purposes a walled off garden, with cars forced to enter through a series of improvised gaps that seemed to change daily. Otherwise KAFD cut at the edge into ten lanes of freeway and then open desert. If your car went to yesterday's entrance only to find a military barricade, you were out of luck. Many times I ended up jogging along the shoulder of the freeway around the island's perimeter, ducking when I could into the shelter of the planted verge while cars swerved in close to get a better look and then skidded off. The whole time reminded of Cymbeline's Britain: "ribbed and paled in / With rocks unscalable and roaring waters".
 
-![](/shoreleave/assets/images/kingdomkafd1.JPG)
+![](/assets/images/kingdomkafd1.JPG)
 
 I walked for hours that first night, then sat in the back of Ashjar Cafe, a miracle of topology, each of its terraces fixed at improbable angles to a central pyramid of marble. Every few seconds, mist was shot from fake trees to form a halo around the structure, where it quivered and then evaporated, having cooled the air imperceptibly. I was eating a perfect cube of "honey cake", which I was prepared to admit represented the culmination of a certain strand of human history: its crumb coating a demonstration of some dark new materials science; its center so soft that it fled coquettishly beneath the tines of the fork until pressed up against the plate where it gave in with a sudden quiver and was impaled, surging up around the fork in an appallingly lewd gesture that could only be described as submissive.
 
-![](/shoreleave/assets/images/kingdomkafd2.JPG)
+![](/assets/images/kingdomkafd2.JPG)
 
 I was laughing at the cake and trying unsuccessfully to strike up a conversation until some time before dawn, when I walked back to campus. With no sidewalks, I had to dart across eight lanes to reach the oasis of a median, where I could move in relative safety between the palms. The occasional Jag swerved over and rolled down its windows so that the blinding sleeves of a starched thawb and two iridescent cuff links could lean out to shout "Mashallah, welcome Riyadh". While passing a construction site, little more than a fenced off hole in the sand, I was stopped by a half dozen security guards dressed like Confederate reenactors and deputized to watch this specific corner of rubble. We had no language in common so we just stared at each other for a few minutes until I walked away and they returned to their folding chairs. That night I dreamed that a crowd of locals pursued and surrounded me at Ashjar, and all at once they ripped off their veils to reveal the faces of my elementary school classmates—as if Saudi Arabia, the entire country, were one elaborate surprise party.
 
@@ -37,17 +37,17 @@ I woke up the next morning with a burn across my shoulders and realized that I h
 
 I had been hired to teach a summer course at a university—one 45-minute lecture each afternoon, the sort of schedule I had dreamed about for years. I tried to understand this period as one of those miraculous pockets of air you occasionally encounter in life, a chance to breathe and expand, but it resisted even this categorization. I planned to finish a novella about London, but this was immediately derailed as I started walking through the night and taking notes on Saudi. It became a period densely filled with its own content.
 
-![](/shoreleave/assets/images/kingdomarch.JPG)
+![](/assets/images/kingdomarch.JPG)
 
 At the edge of downtown, an enormous marble Quran marked the campus entrance. Then there were miles of winding roads through empty desert, guard posts where they would stare skeptically at you for a few seconds before waving you on, until finally you reached a series of academic buildings the scale and color of the valley of the kings. All of it half finished as if still rendering. The lobbies of the housing complex like chasms carved into pale stone, arranged around fountains that ran all night, with a sharp vaguely septic scent seeping up from the dirt between the succulents.
 
-![](/shoreleave/assets/images/kingdomcampus1.JPG)
+![](/assets/images/kingdomcampus1.JPG)
 
-![](/shoreleave/assets/images/kingdomcampus2.JPG)
+![](/assets/images/kingdomcampus2.JPG)
 
-![](/shoreleave/assets/images/kingdomcampus3.JPG)
+![](/assets/images/kingdomcampus3.JPG)
 
-![](/shoreleave/assets/images/kingdomcampus4.JPG)
+![](/assets/images/kingdomcampus4.JPG)
 
 We were given a room full of PS5s but they were still rolling out long sheets of grass to cover up the sand as we arrived. It was like a country produced in that giddy moment in strategy games when you've suddenly come into the money all at once so you go on a spree of upgrading skills and building towers, even straying to the bottoms of the most obscure back menus to find more things to buy, limited only by how fast you can click. It was as if this had all happened and everything was still coated, months or even years on, in the dust of its own installation.
 
@@ -65,8 +65,8 @@ The Saudis seemed to contain many ethnicities, varying widely along nearly every
 
 They all stalked around the strip malls at night: mile-long rows of cafes, three stories tall but often containing only one level, producing spaces so vast that owners would, as if for novelty, build further structures inside or add small private mezzanines like crystal vessels sailing up into the atrium. Gaudy gold fixtures clashed with loud rap that none of the locals understood to be obscene. It was as if Seoul had finally lifted off from the Korean Peninsula bound for the stars, only to crash tragically in the desert, prompting a cargo cult around the crystalline wreckage.
 
-![](/shoreleave/assets/images/kingdommalls2.JPG)
-![](/shoreleave/assets/images/kingdommalls3.JPG)
+![](/assets/images/kingdommalls2.JPG)
+![](/assets/images/kingdommalls3.JPG)
 
 I was enchanted by all of it—by how lively and tasteless and doomed it all felt, and by the nocturnal sitcom of the foreign faculty walking around and commenting on it. Academic programs abroad are usually social mausoleums, staffed by the inert and over-educated, but the faculty here were surprisingly colorful. When asked why they came, few could say. It paid, but I knew for a fact they could make more in a week of private tutoring.
 
@@ -78,17 +78,17 @@ Macdonald was a Zimbabwean Rhodes Scholar, an irony he used to great effect whil
 
 I became nocturnal to avoid the heat, returning when the malls closed at 3 or 4 in the morning to walk the raised corridors of campus, which were flanked by rows of stone columns with different departments radiating off a central spine. On the floor, pale pink and white tiles sparkled in geometric patterns under the flood lamps. The buildings were left unlocked at all hours and characterized by confusing parallels, each room a mirror image of somewhere else on campus. Academic departments would seem empty for the first half hour you explored until you startled some South Asian man in a distant hallway, sleeping on a woven mat with his sandals kicked out ten feet away on the polished floor. Large touch screens mounted in the lobbies played live readings of the Quran by sleepy looking imams stuck on the night shift.
 
-![](/shoreleave/assets/images/kingdomnight.JPG)
+![](/assets/images/kingdomnight.JPG)
 
-![](/shoreleave/assets/images/kingdomnight2.JPG)
+![](/assets/images/kingdomnight2.JPG)
 
-![](/shoreleave/assets/images/kingdomnight3.JPG)
+![](/assets/images/kingdomnight3.JPG)
 
-![](/shoreleave/assets/images/kingdomnight4.JPG)
+![](/assets/images/kingdomnight4.JPG)
 
 On every empty bit of wall, they'd put up portraits of haggard conjurers.
 
-![](/shoreleave/assets/images/kingdomportraits.JPG)
+![](/assets/images/kingdomportraits.JPG)
 
 I took to walking to my lecture theater earlier each day, until I was arriving four or five hours before class began. The entrance was at the top, but the light switch was at the bottom, down a long row of carpeted steps with an unpredictable variation in rise and run. By the time I groped my way to the desk, I would usually just sit there in silence and darkness until the students arrived, enjoying the atmosphere of an industrial walk-in fridge while the call to prayer played over the intercom.
 
@@ -110,8 +110,8 @@ The residence was managed by a doughy man-child and his two identical teenage so
 
 One night while trying to catch the Fourth Floor Mafia in action, I came upon a door left ajar in the stairwell. After shouldering my way through a dark antechamber, the air conditioning fell way and I was out in the heat amid the familiar sound of HVAC. The roof was covered in piles of construction equipment and dirty mattresses, which I didn't realize were occupied until I stepped over one and an eruption of snoring below sent me toppling over backwards. The man levitated up with a terrified "salam alaykum" and then there were rustlings in the shadows on all sides as other workers in colorful jump suits stirred—and I realized that they all lived on the roof. I waved them back with apologetic gestures and climbed the nearest ladder, which led to a small platform that looked out over the dusty expanse of roundabouts, construction sites, and open desert that formed our brief home.
 
-![](/shoreleave/assets/images/kingdomroof.JPG)
-![](/shoreleave/assets/images/kingdomroof2.JPG)
+![](/assets/images/kingdomroof.JPG)
+![](/assets/images/kingdomroof2.JPG)
 
 The building's racial tensions extended to the Pakistani professors in our contingent. They were tolerated for their Oxbridge PhDs, but it clearly pained the Saudis to show any deference to someone from the subcontinent. Eventually the building patriarch broke into one of their rooms and accused him of having ripped his curtains and then stitched them back up, pointing to a small row of neat machine stitches running at a diagonal across the top. On this evidence, they locked him out and ransomed his laptop for 2000 Riyals. He pointed out that he hadn't brought his sewing machine to Riyadh, but the Saudis couldn't even understand him. They just turned their faces away like you turn from a bad smell: the most overt display of racial contempt I'd ever seen.
 
