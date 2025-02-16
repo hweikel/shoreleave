@@ -17,7 +17,6 @@ module.exports = function(eleventyConfig) {
     // Set input and output directories
     return {
       dir: {
-        pathPrefix: "/shoreleave/",
         input: ".",       // Source files location
         includes: "_includes", // Layout templates location
         output: "_site"   // Output folder for the generated site

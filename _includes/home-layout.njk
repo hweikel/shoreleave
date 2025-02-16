@@ -5,14 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title | safe }}</title>
-  <link rel="stylesheet" href="{{ '/css/styles.css' | url }}">
+  <link rel="stylesheet" href='/css/styles.css'>
 </head>
 
 <body class="grid-container">
 
   <header class="header">
-      <a href="{{ '/' | url }}">
-        <img src="{{ '/assets/images/shoreleave.jpg' | url }}" class="header-image">
+      <a href='/'>
+        <img src='/assets/images/shoreleave.jpg' class="header-image">
         <div class="header-text">
             <h1>shore leave</h1>
         </div>
@@ -21,9 +21,9 @@
 
   <main class="posts">
     {% for post in collections.posts %}
-      <a href="{{ post.url | url }} " class="post">
+      <a href="{{ post.url }}" class="post">
         <h2>{{ post.data.title }}</h2>
-        <div class="preview-image-container"  style="background: url('{{ post.data.previewImage | url }}') no-repeat center center; background-size: cover;">
+        <div class="preview-image-container"  style="background: url('{{ post.data.previewImage }}') no-repeat center center; background-size: cover;">
         </div>          
         <p>{{ post.data.description }}</p>
       </a>
