@@ -10,7 +10,8 @@ module.exports = function(eleventyConfig) {
       return DateTime.fromJSDate(dateObj).setZone("UTC").toFormat('yyyy · MM · dd')
     })
 
-    // Copy assets and css to the output folder
+    // Copy assets and css to the output 
+    eleventyConfig.addPassthroughCopy("CNAME");
     eleventyConfig.addPassthroughCopy("css");
     eleventyConfig.addPassthroughCopy("assets");
   
