@@ -281,16 +281,6 @@ abbr,
     margin: 0 auto;
   }
 
-  /* Spacing between images (same paragraph or consecutive image paragraphs) */
-  article img {
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
-  }
-  /* Avoid extra top margin on the first image in a block (e.g. first in article or after text) */
-  article p:has(> img:first-child) > img:first-child {
-    margin-top: 0;
-  }
-
   article p.date + p {
     margin-top: 0rem;
   }
