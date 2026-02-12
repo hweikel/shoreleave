@@ -278,6 +278,7 @@ abbr,
 
   article p img {
     display: block;
+    margin: 1.25rem auto;
   }
 
   article p.date + p {
