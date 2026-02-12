@@ -1,0 +1,24 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shore Leave</title>
+    <link>https://www.onshoreleave.com</link>
+    <description>SEEKING: "a thousand forms of health and hidden islands of life"</description>
+    <language>en</language>
+    <atom:link href="https://www.onshoreleave.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>{{ collections.posts | getNewestCollectionItemDate | dateToRfc822 }}</lastBuildDate>
+    {%- for post in collections.posts | reverse %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>https://www.onshoreleave.com{{ post.url }}</link>
+      <guid>https://www.onshoreleave.com{{ post.url }}</guid>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <description>{{ post.data.description | htmlToAbsoluteUrls(post.url) | escape }}</description>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

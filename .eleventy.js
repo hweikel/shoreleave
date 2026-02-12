@@ -1,4 +1,9 @@
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 module.exports = function(eleventyConfig) {
+    // Add RSS plugin
+    eleventyConfig.addPlugin(pluginRss);
+
     // Add a collection for posts
     eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/*.md").reverse();
