@@ -175,11 +175,11 @@ abbr,
 /* END: Defaults */ 
   body.grid-container {
     display: grid;
-    min-height: 100vh; /* Full viewport height */
+    min-height: 100vh;
   } 
 
   .header {
-    grid-column: 1 / -1; /* Span all columns */
+    grid-column: 1 / -1;
     padding: 1rem;
     text-align: center;
     background-color: black;
@@ -316,12 +316,6 @@ input {
 }
 
   @media (max-width: 768px) {
-    .header-container {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-
     html, body {
       font-size: 18px;
       line-height: 1.2;
@@ -329,7 +323,7 @@ input {
   
     .header-image {
         max-width: 80%;
-        margin: 0 0 1em 0; /* Add spacing between image and text */
+        margin: 0 0 1em 0;
     }
 
     .posts {
