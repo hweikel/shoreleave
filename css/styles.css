@@ -42,7 +42,7 @@ html, body {
   font-feature-settings: 'onum';
 }
 
-img {
+img, video {
   max-width: 100%;
 }
 
@@ -276,7 +276,8 @@ abbr,
     margin: 0 auto;
   }
 
-  article p img {
+  article p img,
+  article p video {
     display: block;
   }
 

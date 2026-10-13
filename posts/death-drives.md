@@ -57,7 +57,7 @@ You recall other details with an absolute, useless clarity. How a homeless woman
 
 ![](/assets/images/death-drives-photos/hk_taxi.jpg)
 
-![](/assets/images/death-drives-photos/bumper_repair.JPG)
+![](/assets/images/death-drives-photos/bumper_repair.jpg)
 
 ![](/assets/images/death-drives-photos/jp_tunnel.jpg)
 
