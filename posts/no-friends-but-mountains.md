@@ -7,7 +7,7 @@ layout: layout.njk
 eleventyExcludeFromCollections: true
 noindex: true
 ---
-At 8pm in Oslo a sunset of such intensity is occurring over the harbor that a healthy minority of the hundreds assembled on the slopes of the opera house rooftop seem to be weeping, and yet all I can see in the shafts of flaming light that assault the city, glancing off the marble to fall extinguished in the harbor, or in the seagulls that stream in massive retaliatory formations straight back up toward God, are visions of the Shahed-136 kamikaze drone.
+At 8pm in Oslo a sunset of such intensity is occurring over the harbor that a healthy minority of the hundreds assembled on the opera house rooftop seem to be weeping, and yet all I can see in the shafts of flaming light that assault the city, glancing off the marble to fall extinguished in the harbor, or in the seagulls that stream in massive retaliatory formations straight back up toward God, are visions of the Shahed-136 kamikaze drone.
 
 A wraith of a girl dances, eyes closed and hips tilting back and forth like a marionette, with a clairvoyant old Arab to the accordions of Old Europa. He's clairvoyant, I've decided after an hour of deliberation, because of the way he throws up both his palms and eyebrows in a hieratic gesture when anyone joins his improvised rooftop ballroom. Circling the dancers, I've started a fatalistic tally of the basic categories of human endeavor I've never reckoned with - and decided that among them dance is foremost; that it is beautiful; and that if I'm to die in a week anyways, I at least want to know what this one is called.
 
